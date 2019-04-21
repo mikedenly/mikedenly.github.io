@@ -1,0 +1,35 @@
+---
+title: 'Importing Data in R'
+date: 2019-04-21
+permalink: /posts/2019-04-21/
+tags:
+  - R
+  - importing data
+  - rio package
+---
+
+Hello, world! I have now finally figured out GitHub and how to make a free website with Jekyll. It's a great day!
+
+Today, I would like to point everyone to my favorite R package importing data: the rio package. It's my favorite package because the syntax is basically the same, no matter what type of file you are trying to import.
+
+To import a .csv file:
+```r
+library(rio)
+data1 <- import("data1.csv")
+head(data1)
+```
+The syntax for importing a Stata dataset does not change. You only need to specify the .dta file extension: 
+```r
+library(rio)
+data2 <- import("data2.dta")
+head(data2)
+```
+
+For Excel files, you just need to change the extension to .xlsx or .xls (depending on the file) , as well as specify which tab you are attempting to reference with "which". This is necessary because Excel files can have multiple tabs, whereas that is not possible for .csv. Here is some code for referencing the second tab in the worksheet:
+```r
+library(rio)
+data3 <- import("data3.xlsx", which=2)
+head(data3)
+```
+
+I hope this information helps someone. For more information, refer to the [rio package help file](https://cran.r-project.org/web/packages/rio/rio.pdf).
