@@ -19,11 +19,20 @@ data1 <- import("data1.csv")
 head(data1)
 ```
 The syntax for importing a Stata dataset does not change. You only need to specify the .dta file extension: 
-```r
+<pre>
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  ```r
 library(rio)
 data2 <- import("data2.dta")
 head(data2)
 ```
+}
+</pre>
+
 
 For Excel files, you just need to change the extension to .xlsx or .xls (depending on the file) , as well as specify which tab you are attempting to reference with "which". This is necessary because Excel files can have multiple tabs, whereas that is not possible for s .csv file. Here is some code for referencing the second tab in an Excel workbook:
 ```r
