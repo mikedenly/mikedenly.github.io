@@ -13,7 +13,7 @@ Hello, world! I have finally figured out GitHub and how to make a free website w
 Today, I would like to point everyone to my favorite R package for importing data: the [rio package](https://cran.r-project.org/web/packages/rio/vignettes/rio.html). It's my favorite package because the syntax is basically the same, no matter what type of file you are trying to import.
 
 To import a .csv file:
-[huge
+.huge[
 ```r
 library(rio)
 data1 <- import("data1.csv")
