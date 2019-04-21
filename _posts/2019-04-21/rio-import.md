@@ -1,7 +1,7 @@
 ---
 title: 'Importing Data in R'
 date: 2019-04-21
-permalink: /posts/2019/04/import-data-r/
+permalink: /posts/2019/04/rio-import/
 tags:
   - R
   - importing data
