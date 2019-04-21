@@ -8,7 +8,7 @@ tags:
   - rio package
 ---
 
-Hello, world! I have now finally figured out GitHub and how to make a free website with Jekyll. It's a great day!
+Hello, world! I have finally figured out GitHub and how to make a free website with Jekyll. It's a great day!
 
 Today, I would like to point everyone to my favorite R package for importing data: the rio package. It's my favorite package because the syntax is basically the same, no matter what type of file you are trying to import.
 
