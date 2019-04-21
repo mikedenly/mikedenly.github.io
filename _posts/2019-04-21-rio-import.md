@@ -20,14 +20,13 @@ head(data1)
 ```
 
 The syntax for importing a Stata dataset does not change. You only need to specify the .dta file extension: 
-  ```r
   .post-title {
   margin: 0 0 5px;
   font-weight: bold;
   font-size: 38px;
   line-height: 1.2;
   and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-
+  ```r
 library(rio)
 data2 <- import("data2.dta")
 head(data2)
