@@ -19,6 +19,7 @@ data1 <- import("data1.csv")
 head(data1)
 ```
 
+To import a Stata dataset, all you need to do is change the extension to .dta.
 ```r
 library(rio)
 data2 <- import("data2.dta")
