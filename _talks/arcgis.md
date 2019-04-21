@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/arcgis
 venue: "Innovations for Peace and Development (UT Austin)"
-date: 2012-03-01
+date: 2019-02-24
 location: "Austin, Texas"
 ---
 
