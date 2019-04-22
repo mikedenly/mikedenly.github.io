@@ -1,5 +1,5 @@
 ---
-title: 'Importing Data in R'
+title: 'Hello, World/Importing Data in R'
 date: 2019-04-21
 permalink: /posts/2019/04/rio-import/
 tags:
