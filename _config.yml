@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mike Denly"
   avatar           : "pic2.png"
-  bio              : "PhD student at @UTAustin, studying political economy. Anti-corruption consultant. Avid soccer and tennis player. Data science aficionado."
+  bio              : "PhD student at <i class="fa fa-twitter-square" aria-hidden="true">@UTAustin</i>, studying political economy. Anti-corruption consultant. Avid soccer and tennis player. Data science aficionado."
   location         : "Mezes 3.232"
   employer         :
   pubmed           : 
