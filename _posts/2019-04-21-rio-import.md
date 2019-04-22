@@ -16,21 +16,18 @@ To import a .csv file:
 ```r
 library(rio)
 data1 <- import("data1.csv")
-head(data1)
 ```
 
 To import a Stata dataset, all you need to do is change the extension to .dta.
 ```r
 library(rio)
 data2 <- import("data2.dta")
-head(data2)
 ```
 
 For Excel files, you just need to change the extension to .xlsx or .xls (depending on the file) , as well as specify which tab you are attempting to reference with "which". This is necessary because Excel files can have multiple tabs, whereas that is not possible for a .csv file. Here is some code for referencing the second tab in an Excel workbook:
 ```r
 library(rio)
 data3 <- import("data3.xlsx", which=2)
-head(data3)
 ```
 
 I hope this information helps someone. For more information, refer to the [rio package help file](https://cran.r-project.org/web/packages/rio/rio.pdf).
