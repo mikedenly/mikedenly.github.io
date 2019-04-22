@@ -19,7 +19,7 @@ Can We "Control" Corruption? Foreign Aid in Low-Governance Environments
 
 "Governance in Armenia: An Evidence Review" USAID. 2018. (with Mike Findley, John Gerring, and Rachel Wellhausen)
 
-"Integrity Systems and the Rule of Law in Armenia: An Evidence Review" uSAID. 2019. (with Mike Findley, Vepa Rejepov, and Rachel Wellhausen)
+"Integrity Systems and the Rule of Law in Armenia: An Evidence Review" USAID. 2019. (with Mike Findley, Vepa Rejepov, and Rachel Wellhausen)
 
 ## Popular Media
 
