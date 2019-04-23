@@ -24,7 +24,7 @@ library(rio)
 data2 <- import("data2.dta")
 ```
 
-For Excel files, you just need to change the extension to .xlsx or .xls (depending on the file) , as well as specify which tab you are attempting to reference with "which". This is necessary because Excel files can have multiple tabs, whereas that is not possible for a .csv file. Here is some code for referencing the second tab in an Excel workbook:
+For Excel files, you just need to change the extension to .xlsx or .xls (depending on the file), as well as specify which tab you are attempting to reference with "which". This is necessary because Excel files can have multiple tabs, whereas that is not possible for a .csv file. Here is some code for referencing the second tab in an Excel workbook:
 ```r
 library(rio)
 data3 <- import("data3.xlsx", which=2)
