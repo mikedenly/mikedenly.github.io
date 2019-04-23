@@ -11,7 +11,7 @@ I study political economy, with a particular focus on corruption, natural resour
 
 Subnational Anti-Corruption Audits and Democratization
 
-Natural Resources, Geolocated: Implications for Conflict and Governance (with Mike Findley, Joelean Hall, Andy Stravers, James Igoe Walsh)
+Natural Resources, Geolocated: Implications for Conflict and Governance (with Mike Findley, Joelean Hall, Andy Stravers, and James Igoe Walsh)
 
 Can We "Control" Corruption? Foreign Aid in Low-Governance Environments
 
