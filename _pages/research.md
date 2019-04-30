@@ -20,7 +20,7 @@ Natural Resources, Geolocated: Implications for Conflict and Governance (with Mi
 
 Can We "Control" Corruption? Foreign Aid in Low-Governance Environments
 
-### Policy Reports
+### Policy Reports 
 
 "Governance in Armenia: An Evidence Review" USAID. 2018. (with Mike Findley, John Gerring, and Rachel Wellhausen)
 
