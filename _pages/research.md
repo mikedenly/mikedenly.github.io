@@ -5,11 +5,8 @@ permalink: /research/
 author_profile: true
   
 ---
-
-<figure style="width: 310px; height: 600px;" class="align-right" >
-  <img src="/files/corruption_colombia.jpg" alt="" />
-  <figcaption>Bogota, Colombia, April 2016</figcaption>
-</figure>
+<figure style="float:right;width:310px;height:350px;" src="/files/corruption_colombia.jpg" alt="" />
+<figcaption>Bogota, Colombia, April 2016</figcaption>
 
 
 
