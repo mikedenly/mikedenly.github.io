@@ -6,8 +6,8 @@ author_profile: true
   
 ---
 
-![]("/files/corruption_colombia.jpg")
-*image_caption*
+![](/images/corruption_colombia.jpg)
+*image caption*
 
 
 I study political economy, with a particular focus on corruption, natural resources, and public goods provision. Some of my ongoing projects relate to Honduras, Guatemala, India, and Pakistan. Most of these projects and others relate to the work of the [Governance Team](http://www.ipdutexas.org/governance.html) at Innovations for Peace and Development.
