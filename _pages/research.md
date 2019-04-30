@@ -6,7 +6,7 @@ author_profile: true
   
 ---
 
-<figure width="304" height="350" class="align-right">
+<figure style="width: 300px" height="350" class="align-right" >
   <img src="/files/corruption_colombia.jpg" alt="" />
   <figcaption>Bogota, Colombia, April 2016</figcaption>
 </figure>
