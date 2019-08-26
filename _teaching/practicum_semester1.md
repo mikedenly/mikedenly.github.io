@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor"
 permalink: /teaching/practicum-semester1
 venue: "University of Texas at Austin, Department of Government"
-date: 2018-01-01
+date: 2018-08-01
 location: "City, Country"
 ---
 
