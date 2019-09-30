@@ -16,7 +16,7 @@ I study political economy, with a particular focus on corruption, natural resour
 
 ### Manuscripts Submitted for Publication
 
-"[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](https://mikedenly.com/files/DFHSW_Natural_Resources_Civil_Conflict-Evidence_New_Georeferenced_Dataset_May232019.pdf)" (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh).
+"[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](https://mikedenly.com/files/DFHSW_Natural_Resources_Civil_Conflict-Evidence_New_Georeferenced_Dataset_May232019.pdf)" (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). *Invited to Revise and Resubmit at Journal of Conflict Resolution.*
 
 ### Selected Research in Progress
 
