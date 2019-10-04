@@ -12,7 +12,7 @@ author_profile: true
 </figure>
 
 
-I study political economy, with a particular focus on corruption, natural resources, and public goods provision. Some of my ongoing projects relate to Honduras, Guatemala, India, and Pakistan. Most of these projects and others relate to the work of the [Governance Team](http://www.ipdutexas.org/governance.html) at Innovations for Peace and Development.
+I study the political economy of development, with a particular focus on corruption, natural resources, and public goods provision. Some of my ongoing projects relate to Honduras, Guatemala, India, and Pakistan. Most of these projects and others relate to the work of the [Governance Team](http://www.ipdutexas.org/governance.html) at Innovations for Peace and Development.
 
 ### Manuscripts Submitted for Publication
 
