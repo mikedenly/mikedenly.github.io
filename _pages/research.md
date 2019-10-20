@@ -22,7 +22,7 @@ I study the political economy of development, with a particular focus on corrupt
 
 Poverty, Party Alignment, and Reducing Corruption through Modernization (with A. Gautam)
 
-Monitoring Corruption and Overcoming the Collective Action Problem (with M. Piracha \& A. Tantravahi)
+Monitoring Corruption and Overcoming the Collective Action Problem (with M. Piracha and A. Tantravahi)
 
 ### Policy Reports 
 
