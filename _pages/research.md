@@ -20,9 +20,9 @@ I study the political economy of development, with a particular focus on corrupt
 
 ### Selected Research in Progress
 
-Subnational Anti-Corruption Audits and Democratization
+Poverty, Party Alignment, and Reducing Corruption through Modernization (with A. Gautam)
 
-Can We "Control" Corruption? Foreign Aid in Low-Governance Environments
+Monitoring Corruption and Overcoming the Collective Action Problem (with M. Piracha \& A. Tantravahi)
 
 ### Policy Reports 
 
