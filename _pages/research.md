@@ -29,4 +29,4 @@ Monitoring Corruption and Overcoming the Collective Action Problem (with Mobin P
 
 ### Media
 
-"[Combatant Fragmentation and the Colombian Peace Process](https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/)" Political Violence at a Glance. 2016. (with Mike Findley and Alejandro Ponce de Leon Calero)
+"[Combatant Fragmentation and the Colombian Peace Process](https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/)" Political Violence at a Glance. 2016. (with Mike Findley and Alejandro Ponce de León Calero)
