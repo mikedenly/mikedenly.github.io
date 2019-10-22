@@ -17,4 +17,4 @@ Prior to joining UT-Austin, I worked for the US State Department, the European C
 ![](/images/gradhatpng.png) Dual M.A., Georgetown University and Universidad Nacional de San Martín, Argentina (2015)
 <br>![](/images/gradhatpng.png) M.Sc., Maastricht University, Graduate School of Governance (2008)
 <br>![](/images/gradhatpng.png) B.A., University of Denver (2006)
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Study Abroad: Université de Lausanne, Switzerland (2005) and Università di Bologna, Italy (2005)
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Study Abroad: Université de Lausanne, Switzerland (2005) and Università di Bologna, Italy (2005)
