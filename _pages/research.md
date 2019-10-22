@@ -11,9 +11,6 @@ author_profile: true
   <figcaption>Bogota, Colombia, April 2016</figcaption>
 </figure>
 
-
-I study the political economy of development, with a particular focus on corruption, natural resources, and public goods provision. Some of my ongoing projects relate to Honduras, Guatemala, India, and Pakistan. Most of these projects and others relate to the work of the [Governance Team](http://www.ipdutexas.org/governance.html) at Innovations for Peace and Development.
-
 ### Manuscripts Submitted for Publication
 
 "[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](https://mikedenly.com/files/DFHSW_Natural_Resources_Civil_Conflict-Evidence_New_Georeferenced_Dataset_May232019.pdf)" (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). *Revise and Resubmit at Journal of Conflict Resolution.*
@@ -30,6 +27,6 @@ Monitoring Corruption and Overcoming the Collective Action Problem (with Mobin P
 
 "[Integrity Systems and the Rule of Law in Armenia: An Evidence Review](https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf)" USAID. 2019. (with Mike Findley, Vepa Rejepov, and Rachel Wellhausen)
 
-### Popular Media
+### Media
 
 "[Combatant Fragmentation and the Colombian Peace Process](https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/)" Political Violence at a Glance. 2016. (with Mike Findley and Alejandro Ponce de Leon Calero)
