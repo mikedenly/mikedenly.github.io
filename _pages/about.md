@@ -14,7 +14,7 @@ I teach a two-semester undergraduate Research Practicum course at UT-Austin. The
 
 Prior to joining UT-Austin, I worked for the US State Department, the European Commission, and the World Bank. Since starting my PhD, I have consulted extensively for the World Bank and USAID on governance and anti-corruption issues. 
 
-![](/images/gradhat.jpg){:height="16px" width="16px"} Dual M.A., Georgetown University/Universidad Nacional de San Martín
+![](/images/gradhatpng.png) Dual M.A., Georgetown University/Universidad Nacional de San Martín
 * M.Sc., Maastricht University, Graduate School of Governance
 * B.A., University of Denver
   * Study Abroad: Université de Lausanne, Switzerland and Università di Bologna, Italy
