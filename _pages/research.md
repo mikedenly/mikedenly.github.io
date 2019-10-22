@@ -13,20 +13,20 @@ author_profile: true
 
 ### Manuscripts Under Review
 
-"[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](https://mikedenly.com/files/DFHSW_Natural_Resources_Civil_Conflict-Evidence_New_Georeferenced_Dataset_May232019.pdf)" (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). *Revise and Resubmit at Journal of Conflict Resolution.*
+"[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](https://mikedenly.com/files/DFHSW_Natural_Resources_Civil_Conflict-Evidence_New_Georeferenced_Dataset_May232019.pdf)." (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). *Revise and Resubmit at Journal of Conflict Resolution.*
 
 ### Selected Research in Progress
 
-Poverty, Party Alignment, and Reducing Corruption through Modernization (with Akshat Gautam)
+"Poverty, Party Alignment, and Reducing Corruption through Modernization." (with Akshat Gautam)
 
-Monitoring Corruption and Overcoming the Collective Action Problem (with Mobin Piracha and Adityamohan Tantravahi)
+"Monitoring Corruption and Overcoming the Collective Action Problem." (with Mobin Piracha and Adi Tantravahi)
 
 ### Policy Reports 
 
-"[Governance in Armenia: An Evidence Review](https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf)" USAID. 2019. (with Mike Findley, John Gerring, and Rachel Wellhausen)
+"[Governance in Armenia: An Evidence Review](https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf)." USAID. 2019. (with Mike Findley, John Gerring, and Rachel Wellhausen)
 
-"[Integrity Systems and the Rule of Law in Armenia: An Evidence Review](https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf)" USAID. 2019. (with Mike Findley, Vepa Rejepov, and Rachel Wellhausen)
+"[Integrity Systems and the Rule of Law in Armenia: An Evidence Review](https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf)." USAID. 2019. (with Mike Findley, Vepa Rejepov, and Rachel Wellhausen)
 
 ### Media
 
-"[Combatant Fragmentation and the Colombian Peace Process](https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/)" Political Violence at a Glance. 2016. (with Mike Findley and Alejandro Ponce de León)
+"[Combatant Fragmentation and the Colombian Peace Process](https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/)." Political Violence at a Glance. 2016. (with Mike Findley and Alejandro Ponce de León)
