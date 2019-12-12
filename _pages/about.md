@@ -10,8 +10,6 @@ redirect_from:
 
 Welcome! I am a PhD student in the Department of Government at the University of Texas at Austin and [Governance Team](http://www.ipdutexas.org/governance.html) Leader at Innovations for Peace and Development. My [research](https://mikedenly.com/research/) centers on the political economy of development, with a focus corruption, natural resources, and public goods provision. At UT-Austin, I [teach](https://mikedenly.com/teaching/) a two-semester undergraduate Research Practicum course.
 
-[I teach a two-semester undergraduate Research Practicum course at UT-Austin. The course focuses on research design as well as basic statistics and programming, including in R, Stata, ArcGIS, LaTeX, Mendeley, and Excel.]
-
 Prior to joining UT-Austin, I worked for the US State Department, the European Commission, and the World Bank. Since starting my PhD, I have consulted extensively for the World Bank and USAID on governance and anti-corruption issues. 
 
 ![](/images/gradhatpng.png) Dual M.A., Georgetown University and Universidad Nacional de San Martín, Argentina (2015)
