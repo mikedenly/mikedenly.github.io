@@ -3,7 +3,7 @@ title: "Applied Research Methods 1 (Research Practicum, Semester 1)"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/practicum-semester1
-venue: "University of Texas at Austin, Department of Government"
+venue: "University of Texas at Austin, Department of Government (355C)"
 date: 2019-08-01
 location: "City, Country"
 ---
