@@ -19,7 +19,7 @@ author_profile: true
 
 "Poverty, Party Alignment, and Reducing Corruption through Modernization." (with Akshat Gautam)
 
-"Monitoring Corruption and Overcoming the Collective Action Problem; Experimental Evidence from Pakistan." (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) [Pre-Analysis Plan](https://mikedenly.com//files/DBPT_PAP_Corruption_Pakistan.pdf)
+"Monitoring Corruption and Overcoming the Collective Action Problem; Experimental Evidence from Pakistan." (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) [[Pre-Analysis Plan](https://mikedenly.com//files/DBPT_PAP_Corruption_Pakistan.pdf)]
 
 ### Policy Reports 
 
