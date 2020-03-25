@@ -10,7 +10,7 @@ tags:
 
 Hello, world! I have finally figured out GitHub and how to make a free website with Jekyll. It's a great day!
 
-Today, I would like to point everyone to my favorite R package for importing data: the [rio package](https://cran.r-project.org/web/packages/rio/vignettes/rio.html). It's my favorite because the syntax is basically the same, no matter what type of data file you are trying to load.
+Today, I would like to point everyone to my favorite R package for importing data: the [rio package](https://cran.r-project.org/web/packages/rio/vignettes/rio.html). It is my favorite because the syntax is basically the same, no matter what type of data file you are trying to load.
 
 To import a .csv file:
 ```r
