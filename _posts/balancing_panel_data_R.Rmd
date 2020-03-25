@@ -9,10 +9,6 @@ tags:
   - duplicate couples
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ### Properly Balancing Panel Data and Removing Duplicate Unique IDs
 
 Properly balancing panel data and removing duplicate unique identifiers is a recurring challenge for students in my Research Practicum course. Accordingly, I thought it would be helpful to provide an example for everyone.
