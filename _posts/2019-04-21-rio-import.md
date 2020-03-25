@@ -30,4 +30,4 @@ library(rio)
 data3 <- import("data3.xlsx", which=2)
 ```
 
-I hope this information helps someone. For more information, refer to the [rio package help file](https://cran.r-project.org/web/packages/rio/rio.pdf).
+I hope this information helps someone. For more information, kindly refer to the [rio package help file](https://cran.r-project.org/web/packages/rio/rio.pdf).
