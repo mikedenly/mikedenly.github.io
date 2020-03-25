@@ -2,7 +2,6 @@
 title: 'Balancing Panel Data and Removing Duplicate Unique IDs'
 date: 2020-03-25
 permalink: /posts/2020/03/balanced-panel/
-output: html_document
 tags:
   - R
   - balanced panel
