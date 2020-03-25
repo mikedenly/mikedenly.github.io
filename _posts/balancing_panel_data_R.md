@@ -1,3 +1,18 @@
+---
+title: 'Balancing Panel Data and Removing Duplicate Unique IDs'
+date: 2020-03-25
+permalink: /posts/2020/03/balanced-panel/
+output: 
+  md_document:
+    variant: markdown_github
+tags:
+  - R
+  - balanced panel
+  - panel data
+  - duplicate couples
+---
+
+
 ### Properly Balancing Panel Data and Removing Duplicate Unique IDs
 
 Properly balancing panel data and removing duplicate unique identifiers is a recurring challenge for students in my Research Practicum course. Accordingly, I thought it would be helpful to provide an example for everyone.
