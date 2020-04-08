@@ -12,8 +12,6 @@ tags:
   - duplicate couples
 ---
 
-### Properly Balancing Panel Data and Removing Duplicate Unique IDs
-
 Properly balancing panel data and removing duplicate unique identifiers is a recurring challenge for students in my Research Practicum course. Accordingly, I thought it would be helpful to provide an example for everyone.
 
 Some may ask: What are *properly* balanced panel data? Generally, a *properly* balanced panel means that all possible ID variables and have data for the same (or appropriate) time period. In the example that follows, we will be working with a dataset of United States (US) foreign aid disbursements to all African countries for the 2001-2017 period. The data come from the US Foreign Aid Explorer (FAE), and we have deflated them to constant 2010 dollars to account for potential inflationary pressures. For these data, we want to ensure that all existent African countries have a foreign aid disbursement value for each year between 2001 and 2017.
