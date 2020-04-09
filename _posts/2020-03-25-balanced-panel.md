@@ -113,7 +113,7 @@ We are no longer getting the duplicates couples warning, so we can now concentra
 fae_all$country_id <- as.numeric(factor(fae_all$country_name)) # numeric country ID
 ```
 
-We need to create a numeric country ID variable because the plm package needs two numeric variables to constitute its ID-time index. With that step out of the way, let's now balance the panel:
+We need to create a numeric country ID variable because the `plm' package needs two numeric variables to constitute its ID-time index. With that step out of the way, let's now balance the panel:
 
 ``` r
 fae_balanced <- make.pbalanced(fae_all, 
