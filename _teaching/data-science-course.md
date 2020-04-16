@@ -1,8 +1,8 @@
 ---
 title: "Data Science for the Social World"
 collection: teaching
-type: "Instructor"
-permalink: /teaching/practicum-sem2
+type: "Instructor (with Mike Findley)"
+permalink: /teaching/data-science-course
 venue: "University of Texas at Austin, Department of Government (GOV 355M)"
 date: 2020-04-15
 location: "City, Country"

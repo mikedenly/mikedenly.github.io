@@ -2,7 +2,7 @@
 title: "Applied Research: Political Science (Research Practicum, Semester 2)"
 collection: teaching
 type: "Instructor"
-permalink: /teaching/practicum-sem2
+permalink: /teaching/practicum-semester2
 venue: "University of Texas at Austin, Department of Government (GOV 355D)"
 date: 2019-01-01
 location: "City, Country"
