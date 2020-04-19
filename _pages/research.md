@@ -13,7 +13,7 @@ author_profile: true
 
 ### Academic Papers
 
-"[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](https://mikedenly.com/research/natural-resources-conflict)." (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). *Revise and Resubmit* at *Journal of Conflict Resolution* 
+"[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](https://mikedenly.com/files/DFHSW_Natural_Resources_Civil_Conflict-Evidence_New_Georeferenced_Dataset_May232019.pdf)." (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). *Revise and Resubmit* at *Journal of Conflict Resolution* 
 
 "External Validity." (with Mike Findley and Kyosuke Kikuta). *In preparation* for *Annual Review of Political Science*
 
