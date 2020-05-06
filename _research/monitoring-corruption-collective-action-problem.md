@@ -11,3 +11,4 @@ Does monitoring corruption work? If so, which types of monitoring schemes are mo
 <figure style="width: 769px; height: 550px"  class="align-center">
   <img src="/images/trace_plots.png" alt="" />
 </figure>
+
