@@ -4,7 +4,7 @@ permalink: /research/natural-resources-conflict
 collection: research
 ---
 
-<figure style="width: 310px" class="align-right">
+<figure style="width: 310px" "height: 600px" class="align-right">
   <img src="/images/south_america_map.png" alt="" />
   <figcaption>Bogota, Colombia, April 2016</figcaption>
 </figure>
