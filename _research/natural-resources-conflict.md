@@ -4,7 +4,8 @@ permalink: /research/natural-resources-conflict
 collection: research
 ---
 
-<figure style="width: 350px; height: 500px"  class="align-right">
+<figure style="width: 350px; height: 550px"  class="align-right">
+<figcaption>Natural Resources in South America</figcaption>
   <img src="/images/south_america_map.png" alt="" />
 </figure>
 
