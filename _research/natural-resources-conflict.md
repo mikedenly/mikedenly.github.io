@@ -4,7 +4,7 @@ permalink: /research/natural-resources-conflict
 collection: research
 ---
 
-*Revise and Resubmit* at *Journal Conflict Resolution*
+*Revise and Resubmit* at *Journal Conflict Resolution*  
 (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh)
 
 
