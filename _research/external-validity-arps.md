@@ -11,5 +11,5 @@ ABSTRACT COMING SOON
   
 <figure style="width: 769px; height: 550px"  class="align-center">
   <img src="/images/ev.png" alt="" />
-  <figcaption> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Designed by my co-author, Kyosuke Kikuta</figcaption>
+  <figcaption> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Designed by my co-author, Kyosuke Kikuta</figcaption>
 </figure>
