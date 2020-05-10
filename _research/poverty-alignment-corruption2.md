@@ -10,6 +10,6 @@ We show that once reductions in poverty decrease voter need for clientelism, it 
 
 <figure style="width: 769px; height: 550px"  class="align-center">
   <img src="/images/dg_prop1and2.png" alt="" />
-  <figcaption>Note: Proposition 1 only relevant in aligned electorates that have recently reduced poverty.</figcaption>
+  <figcaption>Note: Proposition 1 applies to aligned electorates in which economic cirumstances have recently improved.</figcaption>
 </figure>
 
