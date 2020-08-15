@@ -15,7 +15,7 @@ author_profile: true
 
 "[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](/research/natural-resources-conflict)." (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). *Revise and Resubmit* at *Journal of Conflict Resolution* 
 
-"[External Validity](/research/external-validity-arps)." (with Mike Findley and Kyosuke Kikuta). *In preparation* for *Annual Review of Political Science*
+"[External Validity](/research/external-validity-arps)." (with Mike Findley and Kyosuke Kikuta). *Invited to Submit* at *Annual Review of Political Science*
 
 "[Poverty, Party Alignment, and Reducing Corruption through Modernization](/research/poverty-alignment-corruption2)." (with Akshat Gautam)
 
