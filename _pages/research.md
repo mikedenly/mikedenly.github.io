@@ -17,7 +17,11 @@ author_profile: true
 
 "[External Validity](/research/external-validity-arps)." (with Mike Findley and Kyosuke Kikuta). *Invited to Submit* at *Annual Review of Political Science*
 
+"[Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement)." 
+
 "[Poverty, Party Alignment, and Reducing Corruption through Modernization](/research/poverty-alignment-corruption2)." (with Akshat Gautam)
+
+"[Institutional Autonomy Versus Donor Strategic Interest in Multilateral Foreign Aid: A Re-Assessment](/research/aid-strategic)." 
 
 "[Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan](/research/monitoring-corruption-collective-action-problem)." (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) 
 
