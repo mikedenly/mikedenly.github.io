@@ -21,8 +21,6 @@ author_profile: true
 
 "[Poverty, Party Alignment, and Reducing Corruption through Modernization](/research/poverty-alignment-corruption2)." (with Akshat Gautam)
 
-"[Institutional Autonomy Versus Donor Strategic Interest in Multilateral Foreign Aid: A Re-Assessment](/research/aid-strategic)." 
-
 "[Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan](/research/monitoring-corruption-collective-action-problem)." (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) 
 
 ### Policy Reports 
