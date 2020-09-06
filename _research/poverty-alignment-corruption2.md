@@ -11,8 +11,3 @@ We show that once reductions in poverty decrease voter need for clientelism, it 
 <figure style="width: 769px; height: 360px"  class="align-center">
   <img src="/images/prop1and2.png" alt="" />
 </figure>
-
-<figure style="width: 769px; height: 360px"  class="align-center">
-  <img src="/images/prop2only.png" alt="" />
-</figure>
-
