@@ -3,7 +3,7 @@ title: "External Validity: Practices and Principles"
 permalink: /research/external-validity-book
 collection: research
 ---
-Book *Forthcoming* with *Cambridge University Press*  
+Book *Under Contract* with *Cambridge University Press*  
 (with Mike Findley and Kyosuke Kikuta)
   
 <figure style="width: 769px; height: 550px"  class="align-center">
