@@ -11,6 +11,10 @@ author_profile: true
   <figcaption>Bogota, Colombia, April 2016</figcaption>
 </figure>
 
+### Book
+
+"[External Validity: Practices and Principles](/research/external-validity-book)." (with Mike Findley and Kyosuke Kikuta). *Forthcoming* at *Cambridge University Press*
+
 ### Academic Papers
 
 "[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](/research/natural-resources-conflict)." (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). *Revise and Resubmit* at *Journal of Conflict Resolution* 
