@@ -1,5 +1,5 @@
 ---
-title: "External Validity"
+title: "External Validity: Practices and Principles"
 permalink: /research/external-validity-book
 collection: research
 ---
