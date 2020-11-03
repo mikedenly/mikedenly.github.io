@@ -13,13 +13,13 @@ author_profile: true
 
 ### Book
 
-"[External Validity: Practices and Principles](/research/external-validity-book)." (with Mike Findley and Kyosuke Kikuta). *Under Contract* with *Cambridge University Press*
+"[External Validity: Practices and Principles](/research/external-validity-book)." *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).
 
 ### Academic Papers
 
-"[External Validity](/research/external-validity-arps)." (with Mike Findley and Kyosuke Kikuta). *Forthcoming* at *Annual Review of Political Science*
+"[External Validity](/research/external-validity-arps)." *Forthcoming* at *Annual Review of Political Science* (with Mike Findley and Kyosuke Kikuta).
 
-"[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](/research/natural-resources-conflict)." (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). *Revise and Resubmit* at *Journal of Conflict Resolution* 
+"[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](/research/natural-resources-conflict)." *Revise and Resubmit* at *Journal of Conflict Resolution* (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). 
 
 "[Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement)." 
 
