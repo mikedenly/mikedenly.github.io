@@ -17,7 +17,7 @@ author_profile: true
 
 ### Academic Papers
 
-"[External Validity](/research/external-validity-arps)." (with Mike Findley and Kyosuke Kikuta). *Conditionally Accepted* at *Annual Review of Political Science*
+"[External Validity](/research/external-validity-arps)." (with Mike Findley and Kyosuke Kikuta). *Forthcoming* at *Annual Review of Political Science*
 
 "[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](/research/natural-resources-conflict)." (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). *Revise and Resubmit* at *Journal of Conflict Resolution* 
 
