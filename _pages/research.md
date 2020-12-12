@@ -19,7 +19,7 @@ author_profile: true
 
 "[External Validity](/research/external-validity-arps)." *Forthcoming* at *Annual Review of Political Science* (with Mike Findley and Kyosuke Kikuta).
 
-"[Natural Resources and Civil Conflict: Evidence from a New, Georeferenced Dataset](/research/natural-resources-conflict)." *Revise and Resubmit* at *Journal of Conflict Resolution* (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). 
+"[Do Natural Resources Really Cause Civil Conflict? Evidence from a Global, Subnational, Georeferenced Dataset](/research/natural-resources-conflict)." *Revise and Resubmit* at *Journal of Conflict Resolution* (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). 
 
 "[Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement)." 
 
