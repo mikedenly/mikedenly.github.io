@@ -27,7 +27,7 @@ author_profile: true
 
 [Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan](/research/monitoring-corruption-collective-action-problem). (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) 
 
-[Institutional Autonomy Versus Donor Strategic Interest in Multilateral Foreign Aid: A Re-Assessment ](/research/aid-strategic).
+[Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence](/research/aid-strategic).
 
 ### Policy Reports 
 
