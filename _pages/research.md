@@ -23,7 +23,7 @@ author_profile: true
 
 [Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement). 
 
-[Poverty, Party Alignment, and Reducing Corruption through Modernization](/research/poverty-alignment-corruption2). (with Akshat Gautam)
+[Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2). (with Akshat Gautam)
 
 [Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan](/research/monitoring-corruption-collective-action-problem). (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) 
 
