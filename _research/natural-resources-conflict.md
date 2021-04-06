@@ -1,5 +1,5 @@
 ---
-title: "Do Natural Resources Really Cause Civil Conflict? Evidence from a Global, Subnational, Georeferenced Dataset"
+title: "Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset"
 permalink: /research/natural-resources-conflict
 collection: research
 ---

@@ -17,7 +17,7 @@ author_profile: true
 
 ### Academic Papers
 
-[Do Natural Resources Really Cause Civil Conflict? Evidence from a Global, Subnational, Georeferenced Dataset](/research/natural-resources-conflict). *Forthcoming* at *Journal of Conflict Resolution* (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). 
+[Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset](/research/natural-resources-conflict). *Forthcoming* at *Journal of Conflict Resolution* (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). 
 
 [External Validity](/research/external-validity-arps). *Forthcoming* at *Annual Review of Political Science* (with Mike Findley and Kyosuke Kikuta).
 
