@@ -19,7 +19,7 @@ author_profile: true
 
 [Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset](/research/natural-resources-conflict). *Forthcoming* at *Journal of Conflict Resolution* (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). 
 
-[External Validity](/research/external-validity-arps). *Forthcoming* at *Annual Review of Political Science* (with Mike Findley and Kyosuke Kikuta).
+[External Validity](/research/external-validity-arps). *Annual Review of Political Science* 24:365–93. 2021. (with Mike Findley and Kyosuke Kikuta).
 
 [Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement). 
 
