@@ -17,17 +17,20 @@ R is a fantastic open-source program that allows users to do just about anything
 ## Typical One- and Two-Character Substitutions
 
 Before even getting into the accent removal, the first order of business is to ensure that your R Studio is using UTF-8 file encoding:
+
 ```{r, echo=FALSE}
 knitr::include_graphics("images/encoding1.png", dpi = 100)
 ```
 
 
 In my case, everything was already in UTF-8, but it was good to check just in case:
+
 ```{r, echo=FALSE}
 knitr::include_graphics("images/encoding2.png", dpi = 100)
 ```
 
 Now, let's create a data frame that will allow us to remove different types of accents that we will encounter:
+
 ```{r}
 # clear environment
 rm(list=ls(all=TRUE)) 
@@ -67,6 +70,7 @@ remove.accents <- function(s) {
 ```
 
 Given that the function is now defined, let's execute it and see whether it works:
+
 ```{r}
 # finish the accent 
 df$city = remove.accents(df$city)
@@ -94,6 +98,7 @@ moldova <-
   st_set_geometry(NULL) %>% # drop lats & long separately
   dplyr::rename(admin1 = NAME_1)
 ```
+
 Let's see what these accented characters look like. Incidentally, because R Markdown has a tough time reading them, with use a screenshot here:
 
 ```{r, echo=FALSE}
@@ -112,6 +117,7 @@ moldova$admin1 = make_clean_names(moldova$admin1)
 # make sure it goes through
 moldova$admin1
 ```
+
 To conclude, let's just change the underscore back to a space:
 
 ```{r}
