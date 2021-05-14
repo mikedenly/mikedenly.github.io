@@ -1,6 +1,6 @@
 ---
 title: 'Removing Accents in R'
-date: 2020-03-25
+date: 2021-05-25
 permalink: /posts/2021/05/removing-accents-in-R/
 output: 
   md_document:
@@ -18,16 +18,16 @@ R is a fantastic open-source program that allows users to do just about anything
 
 Before even getting into the accent removal, the first order of business is to ensure that your R Studio is using UTF-8 file encoding:
 
-```{r, echo=FALSE}
-knitr::include_graphics("images/encoding1.png", dpi = 100)
-```
+<figure>
+  <img src="/images/encoding1.png" alt="" />
+</figure>
 
 
 In my case, everything was already in UTF-8, but it was good to check just in case:
 
-```{r, echo=FALSE}
-knitr::include_graphics("images/encoding2.png", dpi = 100)
-```
+<figure>
+  <img src="/images/encoding1.png" alt="" />
+</figure>
 
 Now, let's create a data frame that will allow us to remove different types of accents that we will encounter:
 
@@ -101,9 +101,9 @@ moldova <-
 
 Let's see what these accented characters look like. Incidentally, because R Markdown has a tough time reading them, with use a screenshot here:
 
-```{r, echo=FALSE}
-knitr::include_graphics("images/moldova_accents.png", dpi = 100)
-```
+<figure>
+  <img src="/images/moldova_accents.png" alt="" />
+</figure>
 
 In such instances, simply use the `make_clean_names` function from the `janitor` package to remove the accents:
 
