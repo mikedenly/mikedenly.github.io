@@ -74,7 +74,7 @@ remove.accents <- function(s) {
 
 Given that the function is now defined, let's execute it and see whether it works:
 ``` r
-# finish the accent 
+# finish the accent fix
 df$city = remove.accents(df$city)
 
 # examine the data frame
