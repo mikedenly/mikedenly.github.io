@@ -12,7 +12,7 @@ tags:
 
 
 
-R is a fantastic open-source program that allows users to do just about anything, but sometimes the program requires some tricks to accomplish seemingly simple tasks. Removing accents is a case in point, so I'd like to provide everyone with some tricks to overcome some of the thornier accent removal issues. 
+R is a fantastic open-source program that allows users to do just about anything, but sometimes the program requires some tricks to accomplish seemingly simple tasks. Removing accents is a case in point, so I'd like to provide everyone with some guidance to overcome some of the thornier accent removal issues. 
 
 ## Typical One- and Two-Character Substitutions
 
