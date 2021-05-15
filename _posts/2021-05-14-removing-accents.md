@@ -40,6 +40,11 @@ df <- data.frame(
   city = c("San Martín", "San José","Aßlar"))
 
 head(df)
+
+##     country       city
+## 1 Argentina San Martín
+## 2  Honduras   San José
+## 3   Germany      Aßlar
 ```
 
 I specifically chose those cities above because they embody different types of accent fixes that you may need to perform. Removing the "é" from San José and "í" from "San Martín" are typical cases that won't cause many problems--regardless of how you chose to remove them. The "ß" in "Aßlar", however, requires a two-character substitution: the "ß" needs to be replaced with "ss" when it is transcribed into English. 
@@ -76,6 +81,11 @@ df$city = remove.accents(df$city)
 
 # examine the data frame
 head(df)
+
+##     country       city
+## 1 Argentina San Martin
+## 2  Honduras   San Jose
+## 3   Germany     Asslar
 ```
 
 ## When the Above Doesn't Work
@@ -115,6 +125,22 @@ moldova$admin1 = make_clean_names(moldova$admin1)
 
 # make sure it goes through
 table(moldova$admin1)
+
+## 
+##   anenii_noi        balti basarabeasca       bender      briceni        cahul 
+##            1            1            1            1            1            1 
+##     calarasi     cantemir      causeni     chisinau     cimislia     criuleni 
+##            1            1            1            1            1            1 
+##    donduseni      drochia     dubasari       edinet      falesti     floresti 
+##            1            1            1            1            1            1 
+##     gagauzia      glodeni     hincesti     ialoveni        leova    nisporeni 
+##            1            1            1            1            1            1 
+##       ocnita        orhei       rezina      riscani     singerei   soldanesti 
+##            1            1            1            1            1            1 
+##       soroca  stefan_voda     straseni     taraclia    telenesti transnistria 
+##            1            1            1            1            1            1 
+##      ungheni 
+##            1
 ```
 
 To conclude, let's just change the underscore back to a space:
@@ -125,5 +151,21 @@ moldova$admin1 = gsub("_", " ", moldova$admin1)
 
 # make sure it goes through
 table(moldova$admin1)
+
+## 
+##   anenii noi        balti basarabeasca       bender      briceni        cahul 
+##            1            1            1            1            1            1 
+##     calarasi     cantemir      causeni     chisinau     cimislia     criuleni 
+##            1            1            1            1            1            1 
+##    donduseni      drochia     dubasari       edinet      falesti     floresti 
+##            1            1            1            1            1            1 
+##     gagauzia      glodeni     hincesti     ialoveni        leova    nisporeni 
+##            1            1            1            1            1            1 
+##       ocnita        orhei       rezina      riscani     singerei   soldanesti 
+##            1            1            1            1            1            1 
+##       soroca  stefan voda     straseni     taraclia    telenesti transnistria 
+##            1            1            1            1            1            1 
+##      ungheni 
+##            1
 ```
 
