@@ -29,7 +29,6 @@ In my case, everything was already in UTF-8, but it was good to check just in ca
 
 
 Now, let's create a data frame that will allow us to remove different types of accents that we will encounter:
-
 ``` r
 # clear environment
 rm(list=ls(all=TRUE)) 
@@ -74,7 +73,6 @@ remove.accents <- function(s) {
 ```
 
 Given that the function is now defined, let's execute it and see whether it works:
-
 ``` r
 # finish the accent 
 df$city = remove.accents(df$city)
@@ -108,7 +106,7 @@ moldova <-
   dplyr::rename(admin1 = NAME_1)
 ```
 
-Let's see what these accented characters look like. Incidentally, because R Markdown has a tough time reading them, with use a screenshot here:
+Let's see what these accented characters look like. Because R Markdown has a tough time reading them, I'll use a screenshot to show the results here:
 
 
 ![](https://raw.github.com/mikedenly/mikedenly.github.io/master/images/moldovaaccents.png)
