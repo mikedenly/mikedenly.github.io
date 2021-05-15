@@ -88,7 +88,7 @@ head(df)
 
 ## When the Above Doesn't Work
 
-Sometimes, the above tricks won't work. I recently ran into such an instance while cleaning Moldova data in Romanian for my [project on natural resources and subnational public goods provision](https://mikedenly.com/research/natural-resources-subnational-public-goods). To show how I overcame this challenge, let me load the shapefile with the `sf` package and only keep the `admin1` column with the accented variables:
+Sometimes, the above tricks won't work. I recently ran into such an instance while cleaning Moldova data in Romanian for my [project on natural resources and subnational public goods provision](https://mikedenly.com/research/natural-resources-subnational-public-goods). To show how I overcame this challenge, let me load the shapefile with the `sf` package and only keep the `admin1` column with the accented values:
 
 ``` r
 # load libraries
