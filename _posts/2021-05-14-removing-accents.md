@@ -36,7 +36,7 @@ df <- data.frame(
   country = c("Argentina", "Honduras","Germany"),
   city = c("San Martín", "San José","Aßlar"))
 
-df
+head(df)
 ```
 
 I specifically chose those cities above because they embody different types of accent fixes that you may need to perform. Removing the "é" from San José and "í" from "San Martín" are typical cases that won't cause many problems--regardless of how you chose to remove them. The "ß" in "Aßlar", however, requires a two-character substitution: the "ß" needs to be replaced with "ss" when it is transcribed into English. 
@@ -72,19 +72,19 @@ Given that the function is now defined, let's execute it and see whether it work
 df$city = remove.accents(df$city)
 
 # examine the data frame
-df
+head(df)
 ```
 
 ## When the Above Doesn't Work
 
-Sometimes, the above tricks won't work. I recently ran into such an instance while cleaning Moldova data in Romanian for my [project on natural resources and subnational public goods provision](https://mikedenly.com/research/natural-resources-subnational-public-goods). To show how I overcame this challenge, let me load the spatial dataframe with the `sf` package and only keep the `admin1` column with the accented variables:
+Sometimes, the above tricks won't work. I recently ran into such an instance while cleaning Moldova data in Romanian for my [project on natural resources and subnational public goods provision](https://mikedenly.com/research/natural-resources-subnational-public-goods). To show how I overcame this challenge, let me load the shapefile with the `sf` package and only keep the `admin1` column with the accented variables:
 
 ``` r
 # load libraries
 library(sf)
 library(dplyr)
 
-# load shape file
+# load shapefile
 moldova = st_read("Moldova_SHP/MDA_adm1.shp")
 
 # keep only the admin1 column with the accented characters
@@ -109,7 +109,7 @@ library(janitor)
 moldova$admin1 = make_clean_names(moldova$admin1)
 
 # make sure it goes through
-moldova$admin1
+table(moldova$admin1)
 ```
 
 To conclude, let's just change the underscore back to a space:
@@ -119,6 +119,6 @@ To conclude, let's just change the underscore back to a space:
 moldova$admin1 = gsub("_", " ", moldova$admin1)
 
 # make sure it goes through
-moldova$admin1
+table(moldova$admin1)
 ```
 
