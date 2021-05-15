@@ -4,7 +4,7 @@ date: 2021-05-25
 permalink: /posts/2021/05/removing-accents-in-R/
 output: 
   md_document:
-    variant: gfm
+    variant: markdown_github
 tags:
   - R
   - removing accents
