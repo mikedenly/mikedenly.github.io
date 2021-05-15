@@ -18,12 +18,15 @@ R is a fantastic open-source program that allows users to do just about anything
 
 Before even getting into the accent removal, the first order of business is to ensure that your R Studio is using UTF-8 file encoding:
 
+``` r
 ![](images/encoding1.png)
-
+```
 
 In my case, everything was already in UTF-8, but it was good to check just in case:
 
+``` r
 ![](images/encoding2.png)
+```
 
 Now, let's create a data frame that will allow us to remove different types of accents that we will encounter:
 
@@ -91,13 +94,15 @@ moldova = st_read("Moldova_SHP/MDA_adm1.shp")
 moldova <-  
   moldova %>% 
   dplyr::select(NAME_1) %>% 
-  st_set_geometry(NULL) %>% # drop lats & long separately
+  st_set_geometry(NULL) %>% # drop latitude & longitude pairs separately
   dplyr::rename(admin1 = NAME_1)
 ```
 
 Let's see what these accented characters look like. Incidentally, because R Markdown has a tough time reading them, with use a screenshot here:
 
+``` r
 ![](images/moldova_accents.png)
+```
 
 In such instances, simply use the `make_clean_names` function from the `janitor` package to remove the accents:
 
