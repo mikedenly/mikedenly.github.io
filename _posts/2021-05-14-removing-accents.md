@@ -27,7 +27,7 @@ In my case, everything was already in UTF-8, but it was good to check just in ca
 
 Now, let's create a data frame that will allow us to remove different types of accents that we will encounter:
 
-```{r}
+``` r
 # clear environment
 rm(list=ls(all=TRUE)) 
 
@@ -43,7 +43,7 @@ I specifically chose those cities above because they embody different types of a
 
 So that we can take care of the one- and two-character substitutions all at once, let's  write a function called `remove.accents`. The `old1` vector contains the letter with the accent in the original language for the one-character substitutions, and the `new1` vector contains the respective replacements without the accents. Note how `old1` and `new1` are kept in order of the replacements. The logic is similar for `old2` and `new2`.
 
-```{r}
+``` r
 # define the function
 remove.accents <- function(s) {
   
@@ -67,7 +67,7 @@ remove.accents <- function(s) {
 
 Given that the function is now defined, let's execute it and see whether it works:
 
-```{r}
+``` r
 # finish the accent 
 df$city = remove.accents(df$city)
 
@@ -79,7 +79,7 @@ df
 
 Sometimes, the above tricks won't work. I recently ran into such an instance while cleaning Moldova data in Romanian for my [project on natural resources and subnational public goods provision](https://mikedenly.com/research/natural-resources-subnational-public-goods). To show how I overcame this challenge, let me load the spatial dataframe with the `sf` package and only keep the `admin1` column with the accented variables:
 
-```{r, message=FALSE, warning =FALSE, tidy=TRUE}
+``` r
 # load libraries
 library(sf)
 library(dplyr)
@@ -101,7 +101,7 @@ Let's see what these accented characters look like. Incidentally, because R Mark
 
 In such instances, simply use the `make_clean_names` function from the `janitor` package to remove the accents:
 
-```{r, warning =FALSE, message=FALSE}
+``` r
 # load library
 library(janitor)
 
@@ -114,7 +114,7 @@ moldova$admin1
 
 To conclude, let's just change the underscore back to a space:
 
-```{r}
+``` r
 # perform replacement
 moldova$admin1 = gsub("_", " ", moldova$admin1)
 
