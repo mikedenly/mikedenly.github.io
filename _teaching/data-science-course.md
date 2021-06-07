@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor (with Mike Findley)"
 permalink: /teaching/data-science-course
 venue: "University of Texas at Austin, Department of Government (GOV 355M)"
-date: 2020-04-15
+date: 2021-04-15
 location: "City, Country"
 ---
 
