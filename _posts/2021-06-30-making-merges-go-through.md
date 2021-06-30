@@ -96,7 +96,7 @@ library(tidylog, warn.conflicts = FALSE)
 initial_merged_df = left_join(df1, df2, by=c("country", "year"))
 ```
 
-    ## left_join: added no columns
+    ## left_join: added one column (poverty_rate)
     ##            > rows only in x   1
     ##            > rows only in y  (1)
     ##            > matched rows    (1)
