@@ -1,3 +1,18 @@
+---
+title: 'Making Merges Go Through Using tidylog and anti_join'
+date: 2021-06-31
+permalink: /posts/2021/06/making-merges-go-through/
+output: 
+  md_document:
+    variant: gfm
+tags:
+  - R
+  - merging
+  - joining
+  - tidylog
+  - anti_join
+---
+
 Packages in the `tidyverse` suite, including `dplyr`, represent amazing
 contributions data science. One thing that constantly vexed me, though,
 was the inability of `dplyr`’s [merge
