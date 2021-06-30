@@ -96,6 +96,13 @@ library(tidylog, warn.conflicts = FALSE)
 initial_merged_df = left_join(df1, df2, by=c("country", "year"))
 ```
 
+    ## left_join: added no columns
+    ##            > rows only in x   1
+    ##            > rows only in y  (1)
+    ##            > matched rows    (1)
+    ##            >                 ===
+    ##            > rows total       1
+
 Loading the `tidylog` package lets us know that our merge did not fully
 go through. Which observations? To figure that out, let’s use
 `anti_join`, which tells us which observations from `df2` did not merge
