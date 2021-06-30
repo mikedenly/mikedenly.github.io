@@ -2,11 +2,6 @@
 title: "Using tidylog and anti_join to Ensure Merges Go Through"
 date: '2021-06-30'
 permalink: /posts/2021/06/making-merges-go-through/
-output:
-  html_document:
-    df_print: paged
-  md_document:
-    variant: gfm
 tags:
 - R
 - merging
