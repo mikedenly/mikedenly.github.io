@@ -21,9 +21,9 @@ df1 = data.frame(country = c("Brazil", "USA"),
 
 # inspect df1
 head(df1)
-##   country year population_millions
-1     Brazil 2020                 213
-2     USA 2020                 331
+##      country year population_millions
+## 1     Brazil 2020                 213
+## 2        USA 2020                 331
 ```
 
 Then, let's load and inspect `df2`:
@@ -36,6 +36,10 @@ df2 = data.frame(country = c("Brasil", "USA"),
 
 # inspect df2
 head(df2)
+
+##   country year poverty_rate
+## 1  Brasil 2020           21
+## 2     USA 2020            9
 ```
 
 As should be apparent, they are both data frames with demographic information on the poverty rates and population of the US and Brazil in the year 2020. Using the `dplyr` package, we could merge `df1` and `df2` together using `left_join`:
@@ -53,6 +57,10 @@ initial_merged_df = left_join(df1, df2, by=c("country", "year"))
 
 # inspect the data frame
 head(initial_merged_df)
+
+##   country year population_millions poverty_rate
+## 1  Brazil 2020                 213           NA
+## 2     USA 2020                 331            9
 ```
 
 As is clear from above, the poverty rate data is `NA` for Brazil. Why did this happen? The `tidylog` package helps us answer that without even having to inspect the data frame, which is really useful when working with larger data frames. To better understand the benefits of `tidylog`, let's re-run the merge, but this time let's load the `tidylog` package first.
@@ -65,7 +73,7 @@ library(tidylog, warn.conflicts = FALSE)
 initial_merged_df = left_join(df1, df2, by=c("country", "year"))
 ```
 
-Loading the `tidylog` package lets us know that our merge did not fully go through. Which observations? To figure that out, let's use `anti\_join`, which tells us which observations from `df2` did not merge over to `df1`. To do that, just flip the order of `df1` and `df2` as follows:
+Loading the `tidylog` package lets us know that our merge did not fully go through. Which observations? To figure that out, let's use `anti_join`, which tells us which observations from `df2` did not merge over to `df1`. To do that, just flip the order of `df1` and `df2` as follows:
 
 ```{r}
 # checking for problematic observations with anti_join
@@ -73,6 +81,9 @@ checking = anti_join(df2, df1, by=c("country", "year"))
 
 # inspecting the data frame
 head(checking)
+
+##   country year poverty_rate
+## 1  Brasil 2020           21
 ```
 
 As we can clearly see, the Brazil observation has been spelled with an "s" instead of an "z". Because we are working in English, let's correct the spelling (in English):
@@ -90,6 +101,10 @@ final_merged_df = left_join(df1, df2, by=c("country", "year"))
 
 # inspecting the data frame
 head(final_merged_df)
+
+## country year population_millions poverty_rate
+## 1  Brazil 2020                 213           21
+## 2     USA 2020                 331            9
 ```
 
 Clearly, `tidylog` was not 100% necessary for merging the toy data frames above, `df1` and `df2`. With larger data frames, though, combining `tidylog` and `anti_join` will be crucial to ensuring that all of your data actually merge.    
