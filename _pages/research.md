@@ -6,6 +6,18 @@ author_profile: true
   
 ---
 
+<style>
+table td, th:first-of-type {
+    width: 80%;
+    border: none!important;
+}
+table td, th:nth-of-type(2) {
+    width: 20%;
+    border: none!important;
+}
+
+</style>
+
 ### Book
 
 [External Validity: Practices and Principles](/research/external-validity-book). *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).
@@ -18,12 +30,12 @@ author_profile: true
 
 [Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement). 
 
-[Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2). (with Akshat Gautam)
-
-<figure style="width: 200px; height: 120px" class="align-right">
++---------+---------+
+| [Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2). (with Akshat Gautam) | <figure style="width: 200px; height: 120px" class="align-right">
   <img src="/images/corruption_colombia.jpg" alt="" />
   <figcaption>Bogota, Colombia, April 2016</figcaption>
-</figure>
+</figure> | 
++---------+---------+
 
 [Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan](/research/monitoring-corruption-collective-action-problem). (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) 
 
