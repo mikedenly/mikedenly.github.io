@@ -31,10 +31,7 @@ table td, th:nth-of-type(2) {
 [Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement). 
 
 
-| [Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2). (with Akshat Gautam) | <figure style="width: 200px; height: 120px" class="align-right">
-  <img src="/images/corruption_colombia.jpg" alt="" />
-  <figcaption>Bogota, Colombia, April 2016</figcaption>
-</figure> | 
+| [Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2). (with Akshat Gautam) | ![](/images/nomas_guate.png){ width=250px }
 
 [Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan](/research/monitoring-corruption-collective-action-problem). (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) 
 
