@@ -16,21 +16,21 @@ td, th {
 
 [External Validity: Practices and Principles](/research/external-validity-book). *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).
 
-### Academic Papers
+### Academic Publications and Working Papers
 
 [Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset](/research/natural-resources-conflict). *Forthcoming* at *Journal of Conflict Resolution* (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh). 
 
-[External Validity](/research/external-validity-arps). *Annual Review of Political Science* 24:365–93. 2021. (with Mike Findley and Kyosuke Kikuta).
+[External Validity](/research/external-validity-arps). 2021. 24:365–93. *Annual Review of Political Science* (with Mike Findley and Kyosuke Kikuta).
 
 [Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement). 
 
-<span style="display: inline-block; width:60%">[Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2). (with Akshat Gautam)</span> <span style="display: inline-block; width:20%">![](/images/nomas_guate.png)</span>
+<span style="display: inline-block; width:60%">[Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2). (with Akshat Gautam)</span> <span style="display: inline-block; width:15%">![](/images/nomas_guate.png)</span>
 
 [Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan](/research/monitoring-corruption-collective-action-problem). (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) 
 
 [Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence](/research/aid-strategic).
 
-### Policy Reports 
+### Policy Publications 
 
 [Governance in Armenia: An Evidence Review](https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf). USAID. 2019. (with Mike Findley, John Gerring, and Rachel Wellhausen)
 
