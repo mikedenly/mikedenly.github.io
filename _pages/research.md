@@ -8,7 +8,7 @@ author_profile: yes
 ### Book
 
 <p style="float: left; font-size: 12pt; text-align: center; width: 45%; margin-right: 3%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/external-validity-book">External Validity: Practices and Principles</a>." Under contract with <b><i>Cambridge University Press</i></b> (with Mike Findley and Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev.png" style="width: 100%"></a></p>  
-<span><br></span>
+<span style="display: inline-block; width:45%">.</span> 
 
 ### Academic Publications 
 
@@ -19,7 +19,7 @@ author_profile: yes
 
 [Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement). 
 
-<span style="display: inline-block; width:45%">[Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2) (with Akshat Gautam).</span> <span style="display: inline-block; width:20%">![](/images/nomas_guate.png){:height="110" width="200"}</span>
+[Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2)
 
 [Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan](/research/monitoring-corruption-collective-action-problem). (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) 
 
