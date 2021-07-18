@@ -18,12 +18,12 @@ author_profile: yes
 ### Academic Working Papers
 
 <p style="float: left; font-size: 12pt; text-align: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption2">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (with Akshat Gautam).<a href="https://mikedenly.com/research/poverty-alignment-corruption2"><img src="/images/prop1and2.png" style="width: 100%"></a></p>
-<p style="float: right; font-size: 12pt; text-align: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i>Working Paper.</i><a href="https://mikedenly.com/research/audit-measurement"><img src="/images/ev.png" style="width: 100%"></a></p> 
+<p style="float: right; font-size: 12pt; text-align: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i>Working Paper.</i><a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" style="width: 100%"></a></p> 
 <p class="" style="margin: 100px;"></p>
 
-[Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan](/research/monitoring-corruption-collective-action-problem). (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) 
-
-[Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence](/research/aid-strategic).
+<p style="float: left; font-size: 12pt; text-align: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence</a>."<i> Under Review</i>. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" style="width: 100%"></a></p>
+<p style="float: right; font-size: 12pt; text-align: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan</a>."<i>Pre-Analysis Plan.</i> (with Torben Behmer, Mobin Piracha, and Adi Tantravahi). <a href="https://mikedenly.com/research/audit-measurement"><img src="/images/trace1row.png" style="width: 100%"></a></p> 
+<p class="" style="margin: 100px;"></p>
 
 ### Policy Publications 
 
