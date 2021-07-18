@@ -7,7 +7,7 @@ author_profile: yes
 
 ### Book
 
-<span style="display: inline-block; width:45%">[External Validity: Practices and Principles](/research/external-validity-book).  *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).</span> <span style="display: inline-block; width:20%">![](/images/ev.png){:height="140" width="200"} </span>
+<span style="display: inline-block; width:45%; height:10%">[External Validity: Practices and Principles](/research/external-validity-book).  *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).</span> <span style="display: inline-block; width:20%; height:10%">![](/images/ev.png){:height="140" width="200"} </span>
 
 ### Academic Publications and Working Papers
 
