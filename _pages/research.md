@@ -8,7 +8,7 @@ author_profile: yes
 ### Book
 
 <span style="display: inline-block; width:45%">[External Validity: Practices and Principles](/research/poverty-alignment-corruption2) Under contract with <b><i>Cambridge University Press</i></b> (with Mike Findley and Kyosuke Kikuta).</span>
-<figure style="width:45%; height: 276px"  class="align-center">
+<figure style="float: left; width:45%; height: 276px"  class="align-center">
   <a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev.png"></a>
 </figure> 
 
