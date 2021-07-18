@@ -23,7 +23,7 @@ table th:nth-of-type(2) {
 
 ### Academic Publications and Working Papers
 
-<span style="display: inline-block; width:45%">[Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset](/research/natural-resources-conflict). *Forthcoming* at *Journal of Conflict Resolution* (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh).</span> <span style="display: inline-block; width:15%">![](/images/world_nr.png){:height="50" width="156"} </span>
+<span style="display: inline-block; width:45%">[Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset](/research/natural-resources-conflict). *Forthcoming* at *Journal of Conflict Resolution* (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh).</span> <span style="display: inline-block; width:15%">![](/images/world_nr.png){:height="110" width="156"} </span>
 
 <span style="display: inline-block; width:45%">[External Validity](/research/external-validity-arps). *Annual Review of Political Science* 2021. 24:365–93 (with Mike Findley and Kyosuke Kikuta).</span> <span style="display: inline-block; width:15%">![](/images/ev.png){:height="50" width="156"} </span>
 
