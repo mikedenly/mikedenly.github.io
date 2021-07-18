@@ -1,5 +1,5 @@
 ---
-title: "External Validity"
+title: "Research"
 layout: archive
 permalink: /research/
 author_profile: yes
