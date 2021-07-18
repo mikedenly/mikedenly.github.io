@@ -13,7 +13,7 @@ author_profile: yes
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 3%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/natural-resources-conflict">Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset</a>."<b><i> Annual Review of Political Science</i></b> 2021. 24:365–93 (with Mike Findley and Kyosuke Kikuta)<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/ev.png" style="width: 100%"></a></p>
 <p style="float: right; font-size: 9pt; text-align: center; width: 45%; margin-right: 3%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/external-validity-arps">External Validity</a>."<b><i>Annual Review of Political Science</i></b> 2021. 24:365–93 (with Mike Findley and Kyosuke Kikuta)<a href="https://mikedenly.com/research/external-validity-arps"><img src="/images/ev.png" style="width: 100%"></a></p>  
-<br></br> 
+<br>
 
 [Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement). 
 
