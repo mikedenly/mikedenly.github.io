@@ -24,7 +24,7 @@ td, th {
 
 [Measuring Corruption Using Governmental Audits: A New Framework and Dataset](/research/audit-measurement). 
 
-<span style="display: inline-block; width:60%">[Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2) (with Akshat Gautam).</span> <span style="display: inline-block; width:15%">![](/images/nomas_guate.png)</span>
+<span style="display: inline-block; width:60%">[Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala](/research/poverty-alignment-corruption2) (with Akshat Gautam).</span> <span style="display: inline-block; width:15%">![](/images/nomas_guate.png){:height="88" width="156"}</span>
 
 [Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan](/research/monitoring-corruption-collective-action-problem). (with Torben Behmer, Mobin Piracha, and Adi Tantravahi) 
 
