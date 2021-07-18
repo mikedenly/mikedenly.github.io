@@ -11,8 +11,8 @@ author_profile: yes
 
 ### Academic Publications 
 
-<p style="font-size: 12pt; text-align: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/natural-resources-conflict">Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset</a>."<b><i> Journal of Conflict Resolution</i></b> (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" style="width: 100%"></a></p>
-<p style="font-size: 12pt; text-align: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/external-validity-arps">External Validity</a>."<b><i>Annual Review of Political Science</i></b> 2021. 24:365–93 (with Mike Findley and Kyosuke Kikuta).<a href="https://mikedenly.com/research/external-validity-arps"><img src="/images/ev.png" style="width: 100%"></a></p> 
+<p style="font-size: 12pt; text-align: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em; class="align-left"">"<a href="https://mikedenly.com/research/natural-resources-conflict">Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset</a>."<b><i> Journal of Conflict Resolution</i></b> (with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" style="width: 100%"></a></p>
+<p style="font-size: 12pt; text-align: left; width: 47%; margin-right: 1%; margin-bottom: 0.5em; class="align-right"">"<a href="https://mikedenly.com/research/external-validity-arps">External Validity</a>."<b><i>Annual Review of Political Science</i></b> 2021. 24:365–93 (with Mike Findley and Kyosuke Kikuta).<a href="https://mikedenly.com/research/external-validity-arps"><img src="/images/ev.png" style="width: 100%"></a></p> 
 <p class="" style="margin: 100px;"></p>
 
 ### Academic Working Papers
