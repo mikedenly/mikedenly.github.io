@@ -14,7 +14,7 @@ table th:nth-of-type(2) {
 }
 </style>
 
-| [External Validity: Practices and Principles](/research/external-validity-book).  
+| [External Validity: Practices and Principles](/research/external-validity-book). <br> 
 *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta). | ![](/images/ev.png){:height="150"} |
 
 ### Book
