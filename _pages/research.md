@@ -5,6 +5,18 @@ permalink: /research/
 author_profile: yes
 ---
 
+<style>
+table th:first-of-type {
+    width: 40%;
+}
+table th:nth-of-type(2) {
+    width: 20%;
+}
+</style>
+
+| [External Validity: Practices and Principles](/research/external-validity-book).  
+*Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta). | ![](/images/ev.png){:height="150"} |
+
 ### Book
 
 <span style="display: inline-block; width:45%">[External Validity: Practices and Principles](/research/external-validity-book).  *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).</span> <span style="display: inline-block; width:20%">![](/images/ev.png){:height="110" width="200"} </span>
