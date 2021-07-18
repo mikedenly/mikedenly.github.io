@@ -14,9 +14,7 @@ td, th {
 
 ### Book
 
- (with Mike Findley and Kyosuke Kikuta).
-
-<span style="display: inline-block; width:60%">[External Validity: Practices and Principles](/research/external-validity-book)  *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).</span> <span style="display: inline-block; width:15%">![](/images/ev_small.png)</span>
+<span style="display: inline-block; width:60%">[External Validity: Practices and Principles](/research/external-validity-book)  *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).</span> <span style="display: inline-block; width:15%">![](/images/ev.png){:height="88" width="156"} </span>
 
 ### Academic Publications and Working Papers
 
