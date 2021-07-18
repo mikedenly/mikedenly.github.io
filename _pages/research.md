@@ -7,14 +7,17 @@ author_profile: true
 ---
 
 <style>
-td, th {
-   border: none!important;
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 20%;
 }
 </style>
 
 ### Book
 
-| <div style="width:45%">[External Validity: Practices and Principles](/research/external-validity-book).  *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).</div> | ![](/images/ev.png){ :width=20% } |
+| [External Validity: Practices and Principles](/research/external-validity-book).  *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta). | ![](/images/ev.png){:height="50"} |
 
 <span style="display: inline-block; width:45%">[External Validity: Practices and Principles](/research/external-validity-book).  *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).</span> <span style="display: inline-block; width:15%">![](/images/ev.png){:height="50" width="156"} </span>
 
