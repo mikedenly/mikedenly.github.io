@@ -18,7 +18,7 @@ author_profile: yes
 ### Academic Working Papers
 
 <p style="float: left; font-size: 12pt; text-align: left; width: 48%; margin-right: 2%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption2">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (with Akshat Gautam).<a href="https://mikedenly.com/research/poverty-alignment-corruption2"><img src="/images/prop1and2.png" style="width: 100%"></a></p>
-<p style="font-size: 12pt; text-align: left; width: 48%; margin-right: 2%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i>Working Paper.</i><a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" style="width: 100%"></a></p> 
+<p style="float: right; font-size: 12pt; text-align: left; width: 48%; margin-right: 2%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i>Working Paper.</i><a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
 <p style="float: left; font-size: 12pt; text-align: left; width: 48%; margin-right: 2%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence</a>."<i> Under Review</i>. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" style="width: 100%"></a></p>
