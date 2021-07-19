@@ -21,11 +21,15 @@ author_profile: yes
 <p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i> Presented at the European Consortium for Political Research (ECPR) General Conference</i>, 2020.<a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
-<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence</a>."<i> Presented at Political Economy of International Organizations (PEIO) Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" style="width: 100%"></a></p>
+<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence</a>."<i> Presented at the Political Economy of International Organizations (PEIO) Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" style="width: 100%"></a></p>
 <p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem">Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan</a>."<i>Pre-Analysis Plan</i>. (w/ Torben Behmer, Mobin Piracha & Adi Tantravahi). <a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem"><img src="/images/trace_plots2.png" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
 ### Policy Publications 
+
+<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf"> USAID. 2019. (w/ Mike Findley, John Gerring & Rachel Wellhausen) <a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf"><img src="/images/usaid_armenia_governance.png" style="width: 100%"></a></p>
+<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf">Integrity Systems and the Rule of Law in Armenia: An Evidence Review</a>."USAID. 2019. (w/ Mike Findley, Vepa Rejepov & Rachel Wellhausen). <a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf"><img src="/images/usaid_armenia_rol.png" style="width: 100%"></a></p> 
+<div style="clear:both"></div>
 
 [Governance in Armenia: An Evidence Review](https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf). USAID. 2019. (with Mike Findley, John Gerring, and Rachel Wellhausen)
 
