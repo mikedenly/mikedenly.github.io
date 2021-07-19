@@ -7,7 +7,7 @@ author_profile: yes
 
 ### Book
 
-<p style="font-size: 11.5pt; width: 48.5%; margin-right: 1.5%;">"<a href="https://mikedenly.com/research/external-validity-book">External Validity: Practices and Principles</a>." Under contract with <b><i>Cambridge University Press</i></b> (w/ Mike Findley & Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev.png" style="width: 100%; height: 20%;"></a></p> 
+<p style="font-size: 11.5pt; width: 48.5%; margin-right: 1.5%;">"<a href="https://mikedenly.com/research/external-validity-book">External Validity: Practices and Principles</a>." Under contract with <b><i>Cambridge University Press</i></b> (w/ Mike Findley & Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev2.png" style="width: 100%; height: 20%;"></a></p> 
 
 ### Academic Publications 
 
@@ -18,10 +18,10 @@ author_profile: yes
 ### Academic Working Papers
 
 <p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption2">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (w/ Akshat Gautam).<a href="https://mikedenly.com/research/poverty-alignment-corruption2"><img src="/images/prop1and2.png" style="width: 100%"></a></p>
-<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i> Presented at the European Consortium for Political Research (ECPR) General Conference</i>.<a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" style="width: 100%"></a></p> 
+<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i> Presented at the European Consortium for Political Research (ECPR) General Conference</i>, 2020.<a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
-<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence</a>."<i> Presented at Political Economy of International Organizations (PEIO) Conference</i>. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" style="width: 100%"></a></p>
+<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence</a>."<i> Presented at Political Economy of International Organizations (PEIO) Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" style="width: 100%"></a></p>
 <p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem">Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan</a>."<i>Pre-Analysis Plan</i>. (w/ Torben Behmer, Mobin Piracha & Adi Tantravahi). <a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem"><img src="/images/trace_plots2.png" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
