@@ -27,8 +27,8 @@ author_profile: yes
 
 ### Policy Publications 
 
-<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf"> Governance in Armenia: An Evidence Review</a>."USAID. 2019 (w/ Mike Findley, John Gerring & Rachel Wellhausen).<img src="/images/usaid_armenia_governance.png" style="width: 100%"></a></p>
-<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf">Integrity Systems and the Rule of Law in Armenia: An Evidence Review</a>."USAID. 2019 (w/ Mike Findley, Vepa Rejepov & Rachel Wellhausen). <a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf"><img src="/images/usaid_armenia_rol.png" style="width: 100%"></a></p> 
+<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf">Governance in Armenia: An Evidence Review</a>." USAID. 2019 (w/ Mike Findley, John Gerring & Rachel Wellhausen).<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf"><img src="/images/usaid_armenia_governance.png" style="width: 100%"></a></p>
+<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf">Integrity Systems and the Rule of Law in Armenia: An Evidence Review</a>." USAID. 2019 (w/ Mike Findley, Vepa Rejepov & Rachel Wellhausen). <a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf"><img src="/images/usaid_armenia_rol.png" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
 ### Media
