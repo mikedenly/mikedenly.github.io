@@ -31,10 +31,6 @@ author_profile: yes
 <p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf">Integrity Systems and the Rule of Law in Armenia: An Evidence Review</a>."USAID. 2019. (w/ Mike Findley, Vepa Rejepov & Rachel Wellhausen). <a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf"><img src="/images/usaid_armenia_rol.png" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
-[Governance in Armenia: An Evidence Review](https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf). USAID. 2019. (with Mike Findley, John Gerring, and Rachel Wellhausen)
-
-[Integrity Systems and the Rule of Law in Armenia: An Evidence Review](https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf). USAID. 2019. (with Mike Findley, Vepa Rejepov, and Rachel Wellhausen)
-
 ### Media
 
 [Combatant Fragmentation and the Colombian Peace Process](https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/). Political Violence at a Glance. 2016. (with Mike Findley and Alejandro Ponce de León)
