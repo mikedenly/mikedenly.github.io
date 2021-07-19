@@ -22,7 +22,7 @@ author_profile: yes
 <div style="clear:both"></div>
 
 <p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence</a>."<i> Presented at the Political Economy of International Organizations (PEIO) Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" style="width: 100%"></a></p>
-<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem">Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan</a>."<i>Pre-Analysis Plan</i>. (w/ Torben Behmer, Mobin Piracha & Adi Tantravahi). <a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem"><img src="/images/trace_plots2.png" style="width: 100%"></a></p> 
+<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem">Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan</a>."<i> Pre-Analysis Plan</i>. (w/ Torben Behmer, Mobin Piracha & Adi Tantravahi). <a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem"><img src="/images/trace_plots2.png" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
 ### Policy Publications 
