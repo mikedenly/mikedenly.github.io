@@ -7,7 +7,7 @@ collection: research
 <style>
 .thumbnaildiss2 {
     background-color: black;
-    height: 300px;
+    height: 275px;
     display: inline-block; 
     background-size: cover; 
     background-position: center center;
