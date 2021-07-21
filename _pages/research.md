@@ -25,7 +25,7 @@ author_profile: yes
     background-size: cover; 
     background-position: center center;
     background-repeat: no-repeat;
-    margin: auto;
+    margin: 0 auto;
 }
 </style>
 
