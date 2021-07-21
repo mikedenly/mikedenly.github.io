@@ -8,7 +8,7 @@ author_profile: yes
 <style>
 .thumbnail {
     background-color: black;
-    height: 175px;
+    height: 200px;
     display: inline-block; 
     background-size: cover; 
     background-position: center center;
@@ -19,7 +19,7 @@ author_profile: yes
 <style>
 .thumbnail1 {
     background-color: black;
-    height: 200px;
+    height: 228px;
     display: inline-block; 
     background-size: cover; 
     background-position: center center;
@@ -49,10 +49,12 @@ author_profile: yes
 
 ### Policy Publications 
 
-<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf">Governance in Armenia: An Evidence Review</a>." USAID. 2019 (w/ Mike Findley, John Gerring & Rachel Wellhausen).<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf"><img src="/images/usaid_armenia_governance.png" class="thumbnail" style="width: 100%"></a></p>
-<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf">Integrity Systems & the Rule of Law in Armenia: An Evidence Review</a>." USAID. 2019 (w/ Mike Findley, Vepa Rejepov & Rachel Wellhausen). <a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf"><img src="/images/usaid_armenia_rol.png" class="thumbnail" style="width: 100%"></a></p> 
+<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf">Governance in Armenia: An Evidence Review</a>." USAID, 2019 (w/ Mike Findley, John Gerring & Rachel Wellhausen).<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf"><img src="/images/usaid_armenia_governance.png" class="thumbnail" style="width: 100%"></a></p>
+<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf">Integrity Systems & the Rule of Law in Armenia: An Evidence Review</a>." USAID, 2019 (w/ Mike Findley, Vepa Rejepov & Rachel Wellhausen). <a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf"><img src="/images/usaid_armenia_rol.png" class="thumbnail" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
 ### Media
 
-"[Combatant Fragmentation and the Colombian Peace Process](https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/)."<i> Political Violence at a Glance</i> 2016 (with Mike Findley and Alejandro Ponce de León)
+<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/">Combatant Fragmentation and the Colombian Peace Process</a>." <i> Political Violence at a Glance</i>, 2016 (with Mike Findley and Alejandro Ponce de León).</p>
+
+
