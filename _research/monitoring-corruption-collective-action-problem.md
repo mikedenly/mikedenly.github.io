@@ -7,7 +7,7 @@ collection: research
 <style>
 .thumbnailmc {
     background-color: black;
-    height: 400px;
+    height: 450px;
     display: inline-block; 
     background-size: cover; 
     background-position: center center;
