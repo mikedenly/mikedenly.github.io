@@ -55,6 +55,6 @@ author_profile: yes
 
 ### Media
 
-<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/">Combatant Fragmentation and the Colombian Peace Process</a>." <i> Political Violence at a Glance</i>, 2016 (with Mike Findley and Alejandro Ponce de León).</p>
+<p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/">Combatant Fragmentation and the Colombian Peace Process</a>."<i> Political Violence at a Glance</i>, 2016 (with Mike Findley and Alejandro Ponce de León).</p>
 
 
