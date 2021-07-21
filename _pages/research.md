@@ -19,7 +19,7 @@ author_profile: yes
 <style>
 .thumbnail1 {
     background-color: black;
-    height: 228.5px;
+    height: 229px;
     display: inline-block; 
     background-size: cover; 
     background-position: center center;
