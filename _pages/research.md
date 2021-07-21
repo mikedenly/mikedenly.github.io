@@ -13,8 +13,8 @@ author_profile: yes
     background-size: cover; 
     background-position: center center;
     background-repeat: no-repeat;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 </style>
 
@@ -26,8 +26,8 @@ author_profile: yes
     background-size: cover; 
     background-position: center center;
     background-repeat: no-repeat;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 </style>
 
