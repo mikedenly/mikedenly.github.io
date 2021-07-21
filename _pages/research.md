@@ -8,10 +8,9 @@ author_profile: yes
 <style>
 .thumbnail {
     background-color: black;
-    width: 250px;
     height: 200px;
-    display: inline-block; /* makes it fit in like an <img> */
-    background-size: cover; /* or contain */
+    display: inline-block; 
+    background-size: cover; 
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -20,8 +19,7 @@ author_profile: yes
 <style>
 .thumbnail1 {
     background-color: black;
-    width: 250px;
-    height: 200px;
+    height: 220px;
     display: inline-block; /* makes it fit in like an <img> */
     background-size: cover; /* or contain */
     background-position: center center;
@@ -36,7 +34,7 @@ author_profile: yes
 ### Academic Publications 
 
 <p style="float: left; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/natural-resources-conflict">Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset</a>."<b><i> Journal of Conflict Resolution</i></b> (w/ Mike Findley, Joelean Hall, Andy Stravers & Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail" style="width: 100%"></a></p>
-<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/external-validity-arps">External Validity</a>."<b><i>Annual Review of Political Science</i></b> 2021. 24:365–93 (w/ Mike Findley & Kyosuke Kikuta).<a href="https://mikedenly.com/research/external-validity-arps"><img src="/images/ev.png" class="thumbnail" style="width: 100%"></a></p> 
+<p style="float: right; font-size: 11.5pt; text-align: left; width: 48.5%; margin-right: 1.5%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/external-validity-arps">External Validity</a>."<b><i>Annual Review of Political Science</i></b> 2021. 24:365–93 (w/ Mike Findley & Kyosuke Kikuta).<a href="https://mikedenly.com/research/external-validity-arps"><img src="/images/ev.png" class="thumbnail1" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
 ### Academic Working Papers
