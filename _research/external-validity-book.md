@@ -7,7 +7,7 @@ collection: research
 <style>
 .thumbnailevbook {
     background-color: black;
-    height: 300px;
+    height: 250px;
     display: inline-block; 
     background-size: cover; 
     background-position: center center;
@@ -15,6 +15,6 @@ collection: research
 }
 </style>
 
-Book *Under Contract* with *Cambridge University Press* (with Mike Findley and Kyosuke Kikuta).
+Book *Under Contract* with *Cambridge University Press* (with Mike Findley & Kyosuke Kikuta).
 
-<p style="font-size: 12.5pt; width: 98.5%; text-align: left; margin-right: 1.5%;">"In progress. Meanwhile, please see our <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-041719-102556">external validity article</a> in the <i>Annual Review of Political Science</i>."<img src="/images/ev2.png" class="thumbnailevbook" style="width: 100%;"></a></p> 
+<p style="font-size: 12.5pt; width: 100%; text-align: left;">In progress. Meanwhile, please see our <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-041719-102556">external validity article</a> in the <i>Annual Review of Political Science</i>.<img src="/images/ev2.png" class="thumbnailevbook" style="width: 100%;"></p> 
