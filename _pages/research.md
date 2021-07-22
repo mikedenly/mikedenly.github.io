@@ -50,8 +50,8 @@ author_profile: yes
 
 ### Academic Working Papers
 
-<p style="float: left; font-size: 11.5pt; text-align: left; width: 46%; margin-right: 4%;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption2">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (w/ Akshat Gautam).<a href="https://mikedenly.com/research/poverty-alignment-corruption2"><img src="/images/prop1and2.png" class="thumbnail" style="width: 100%"></a></p>
-<p style="float: right; font-size: 11.5pt; text-align: left; width: 46%; margin-right: 4%;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i> Presented at the European Consortium for Political Research (ECPR) General Conference</i>, 2020.<a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" class="thumbnail" style="width: 100%"></a></p> 
+<p style="float: left; font-size: 11.5pt; text-align: left; width: 46%; margin-right: 4%; margin-bottom: 3em;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption2">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (w/ Akshat Gautam).<a href="https://mikedenly.com/research/poverty-alignment-corruption2"><img src="/images/prop1and2.png" class="thumbnail" style="width: 100%"></a></p>
+<p style="float: right; font-size: 11.5pt; text-align: left; width: 46%; margin-right: 4%; margin-bottom: 3em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i> Presented at the European Consortium for Political Research (ECPR) General Conference</i>, 2020.<a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" class="thumbnail" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 <p style="font-size: 11.5pt; text-align: left; width: 96%; margin-right: 4%; margin-bottom: 0.5em;">&nbsp;</p>
 
