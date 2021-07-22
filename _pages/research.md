@@ -45,7 +45,7 @@ author_profile: yes
 ### Academic Publications 
 
 <p style="float: left; font-size: 11.5pt; text-align: left; width: 47%; margin-right: 3%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/natural-resources-conflict">Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset</a>."<b><i> Journal of Conflict Resolution</i></b> (w/ Mike Findley, Joelean Hall, Andy Stravers & Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail" style="width: 100%"></a></p>
-<p style="float: right; font-size: 11.5pt; text-align: left; width: 47%; margin-left: 3%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/external-validity-arps">External Validity</a>."<b><i> Annual Review of Political Science</i></b> 2021. 24: 365–393 (w/ Mike Findley & Kyosuke Kikuta).<a href="https://mikedenly.com/research/external-validity-arps"><img src="/images/ev.png" class="thumbnail2" style="width: 100%"></a></p> 
+<p style="float: right; font-size: 11.5pt; text-align: left; width: 47%; margin-left: 3%; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/external-validity-arps">External Validity</a>."<b><i> Annual Review of Political Science</i></b> 2021. 24: 365–393 (w/ Mike Findley & Kyosuke Kikuta).<a href="https://mikedenly.com/research/external-validity-arps"><img src="/images/ev.png" class="thumbnail1" style="width: 100%"></a></p> 
 <div style="clear:both"></div>
 
 ### Academic Working Papers
@@ -66,6 +66,6 @@ author_profile: yes
 
 ### Media
 
-<p style="float: left; font-size: 11.5pt; text-align: left; width: 96%; margin-right: 4%; margin-bottom: 0.5em;">"<a href="https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/">Combatant Fragmentation and the Colombian Peace Process</a>."<i> Political Violence at a Glance</i>, 2016 (with Mike Findley and Alejandro Ponce de León).</p>
+<p style="float: left; font-size: 11.5pt; text-align: left; width: 98%; margin-right: 2%; margin-bottom: 0.5em;">"<a href="https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/">Combatant Fragmentation and the Colombian Peace Process</a>."<i> Political Violence at a Glance</i>, 2016 (w/ Mike Findley and Alejandro Ponce de León).</p>
 <div style="clear:both"></div>
 
