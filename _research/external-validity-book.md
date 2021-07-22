@@ -7,7 +7,7 @@ collection: research
 <style>
 .thumbnailevbook {
     background-color: black;
-    height: 275px;
+    height: 300px;
     display: inline-block; 
     background-size: cover; 
     background-position: center center;
