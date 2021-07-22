@@ -30,7 +30,7 @@ author_profile: yes
 <style>
 .thumbnail2 {
     background-color: black;
-    height: 253px;
+    height: 254px;
     display: inline-block; 
     background-size: cover; 
     background-position: center;
