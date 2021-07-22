@@ -7,7 +7,7 @@ collection: research
 <style>
 .thumbnaildiss3 {
     background-color: black;
-    height: 450px;
+    height: 375px;
     display: inline-block; 
     background-size: cover; 
     background-position: center center;
@@ -21,4 +21,4 @@ collection: research
 
 <p style="font-size: 12pt; width: 100%; text-align: left;"><img src="/images/mexico_amount_map.png" class="thumbnaildiss3" style="width: 97%;"></p>
 
-<p style="font-size: 10pt; width: 100%; text-align: left;">Mean Amount (Log) of Stolen/Misappropriated Money in Constant 2013 Mexican Pesos</p>  
+<p style="font-size: 10pt; width: 100%; text-align: left;">Mean Amount (Log) of Stolen/Misappropriated Money in Constant 2013 Mexican Pesos (2007-2018)</p>  
