@@ -64,7 +64,7 @@ a:nth-of-type(2n) {
 
 <style>
 @media screen and (min-width: 50em) {
-  img {
+  figure {
     width: calc(50% - 6px);
   }
   
