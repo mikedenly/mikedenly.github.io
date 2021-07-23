@@ -94,6 +94,7 @@ author_profile: yes
 <div class="cards">
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf">Governance in Armenia</a>." USAID, 2019 (w/ Mike Findley, John Gerring & Rachel Wellhausen).<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMG.pdf"><img src="/images/usaid_armenia_governance.png" class="thumbnail"></a></p></div>
+<div class="card">
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf">Integrity Systems and the Rule of Law in Armenia</a>." USAID, 2019 (w/ Mike Findley, Vepa Rejepov & Rachel Wellhausen). <a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf"><img src="/images/usaid_armenia_rol.png" class="thumbnail" ></a></p></div>
 </div>
 
