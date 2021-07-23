@@ -42,7 +42,6 @@ author_profile: yes
 .card {
   color: white;
   padding: 1rem;
-  height: 4rem;
 }
 </style>
 
