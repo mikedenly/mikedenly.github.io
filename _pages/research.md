@@ -17,17 +17,6 @@ author_profile: yes
 </style>
 
 <style>
-.thumbnail1 {
-    background-color: black;
-    height: 230px;
-    display: inline-block;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-</style>
-
-<style>
 .thumbnail2 {
     background-color: black;
     height: 254px;
@@ -40,8 +29,9 @@ author_profile: yes
 
 <style>
 .card {
-  padding: 1rem;
+  margin-bottom: 1rem;
   height: 320px;
+  
 }
 </style>
 
