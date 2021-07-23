@@ -28,8 +28,15 @@ author_profile: yes
 </style>
 
 <style>
+div {
+  display: flex;
+  flex-wrap: wrap;
+}
+</style>
+
+<style>
 .card {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   height: 320px;
 }
 </style>
