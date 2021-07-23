@@ -55,7 +55,7 @@ author_profile: yes
 </style>
 
 <style>
-@media (min-width: 600px) {
+@media (min-width: 480px) {
   .cards { grid-template-columns: repeat(2, 1fr); }
 }
 </style>
@@ -84,7 +84,7 @@ author_profile: yes
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption2">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (w/ Akshat Gautam).<a href="https://mikedenly.com/research/poverty-alignment-corruption2"><img src="/images/prop1and2.png" class="thumbnail"></a></p></div>
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i> Presented at the European Consortium for Political Research (ECPR) General Conference</i>, 2020.<a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" class="thumbnail"></a></p></div>
-
+<div class="card">
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence</a>."<i> Presented at the Political Economy of International Organizations (PEIO) Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" class="thumbnail"></a></p></div>
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem">Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan</a>."<i> Pre-Analysis Plan</i>. (w/ Torben Behmer, Mobin Piracha & Adi Tantravahi). <a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem"><img src="/images/trace_plots2.png" class="thumbnail"></a></p></div> 
