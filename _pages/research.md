@@ -46,7 +46,7 @@ author_profile: yes
 
 <style>
 .cards {
-  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   display: grid;
   grid-gap: 1rem;
