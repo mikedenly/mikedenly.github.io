@@ -58,6 +58,7 @@ author_profile: yes
 @media (min-width: 600px) {
   .cards { grid-template-columns: repeat(2, 1fr); }
 }
+</style>
 
 <h2>Book</h2>
 
