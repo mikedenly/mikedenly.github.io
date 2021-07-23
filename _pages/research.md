@@ -62,7 +62,6 @@ author_profile: yes
 
 <h2>Book</h2>
 <p style="font-size: 11.5pt; width: 47%; text-align: left; margin-right: 3%;">"<a href="https://mikedenly.com/research/external-validity-book">External Validity: Practices and Principles</a>." Under contract with <b><i>Cambridge University Press</i></b> (w/ Mike Findley & Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev2.png" class="thumbnail" style="max-width: 100%;"></a></p>
-<div style="clear:both"></div>
 
 <div class="cards">
 <h2>Published Academic Articles</h2>
@@ -87,6 +86,7 @@ author_profile: yes
 </div>
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem">Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan</a>."<i> Pre-Analysis Plan</i>. (w/ Torben Behmer, Mobin Piracha & Adi Tantravahi). <a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem"><img src="/images/trace_plots2.png" class="thumbnail"></a></p>
+
 </div>
 
 <div class="card"><h2>Published Policy Papers</h2>
