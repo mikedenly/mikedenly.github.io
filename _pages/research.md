@@ -46,12 +46,14 @@ author_profile: yes
 }
 </style>
 
+<style>
 .cards {
   max-width: 100%;
   margin: 0 auto;
   display: grid;
   grid-gap: 1rem;
 }
+</style>
 
 /* Screen larger than 600px? 2 column */
 @media (min-width: 600px) {
