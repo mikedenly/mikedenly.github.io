@@ -1,43 +1,75 @@
 ---
 title: "Stack Help"
 layout: archive
-permalink: /forStack/
+permalink: /practice/
 author_profile: yes
 ---
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.thumbnail {
+    background-color: black;
+    height: 200px;
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+</style>
 
 <style>
 .thumbnail1 {
     background-color: black;
-    height: 200px;
-    display: inline-block; 
-    background-size: cover; 
-    background-position: center center;
+    height: 230px;
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-right: 3%;
-    width: 47%; 
 }
 </style>
 
 <style>
 .thumbnail2 {
     background-color: black;
-    height: 230px;
-    display: inline-block; 
-    background-size: cover; 
-    background-position: center center;
+    height: 254px;
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
 }
 </style>
 
-### Book
+<style>
+.card {
+  padding: 1rem;
+}
+<style>
 
-<p style="font-size: 11.5pt; width: 47%; text-align: left; margin-right: 3%;">"<a href="Book link">Book Title</a>." Under contract with <b><i>Publisher</i></b> (w/ coauthor 1 & coauthor).<br><a href="link for Book image"><img src="image source file for Book" class="thumbnail1" style="max-width: 100%;"></a></p> 
+<style>
+.cards {
+  max-width: 100%;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+}
+</style>
 
-### Peer-Reviewed Articles 
+<style>
+/* Screen larger than 480px? 2 column */
+@media (min-width: 480px) {
+  .cards { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
 
-<p style="float: left; font-size: 11.5pt; text-align: left; width: 47%; margin-right: 3%; margin-bottom: 0.5em;">"<a href="article 1 link">Article 1 Title</a>."<b><i> Article 1 Journal</i></b> (w/ coauthor).<a href="Article 1 link"><img src="image source file for Article 1" class="thumbnail1" style="max-width: 100%;"></a></p>
-<p style="float: right; font-size: 11.5pt; text-align: left; width: 47%; margin-left: 3%; margin-bottom: 0.5em;">"<a href="Article 2 link">Article 2 Title</a>."<b><i> Article 2 Journal</i></b> (w/ coauthors).<a href="link for Article 2 image"><img src="image source file for Article 2" class="thumbnail2" style="max-width: 100%;"></a></p> 
-<div style="clear:both"></div>
+<div class="cards">
+<div class="card"><h2>Book</h2>
+<p style="font-size: 11.5pt; width: 47%; text-align: left; margin-right: 3%;">"<a         href="https://mikedenly.com/research/external-validity-book">External Validity: Practices and Principles</a>." Under contract with <b><i>Cambridge University Press</i></b> (w/ Mike Findley & Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev2.png" class="thumbnail"></a></p>
+</div>
+
+<div class="card"><h2>Book</h2>
+<p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/natural-resources-conflict">Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset</a>."<b><i> Journal of Conflict Resolution</i></b> (w/ Mike Findley, Joelean Hall, Andy Stravers & Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail"></a></p>
+</div>
+<div class="card">
+<p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/external-validity-arps">External Validity</a>."<b><i> Annual Review of Political Science</i></b> 2021. 24: 365–393 (w/ Mike Findley & Kyosuke Kikuta).<a href="https://mikedenly.com/research/external-validity-arps"><img src="/images/ev.png" class="thumbnail1></a></p>
+</div>
+</div>
 
