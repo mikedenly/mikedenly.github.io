@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: yes
 ---
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <style>
 .thumbnail {
     background-color: black;
