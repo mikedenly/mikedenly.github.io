@@ -63,18 +63,8 @@ a:nth-of-type(2n) {
 </style>
 
 <style>
-@media screen and (min-width: 50em) {
-  div {
-    width: calc(50% - 6px);
-  }
-  
-  a:nth-of-type(1n) {
-    margin-right: 8px;
-  }
-  
-  a:nth-of-type(2n) {
-    margin-right: 0;
-  }
+@media (min-width: 600px) {
+  div { grid-template-columns: repeat(2, 1fr); }
 }
 </style>
 
