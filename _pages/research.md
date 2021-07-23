@@ -37,7 +37,6 @@ div {
 <style>
 .card {
   margin-bottom: 1rem;
-  height: 320px;
 }
 </style>
 
