@@ -63,7 +63,10 @@ author_profile: yes
 
 <h2>Book</h2>
 
-<p style="font-size: 11.5pt; width: 47%; text-align: left; margin-right: 3%;">"<a href="https://mikedenly.com/research/external-validity-book">External Validity: Practices and Principles</a>." Under contract with <b><i>Cambridge University Press</i></b> (w/ Mike Findley & Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev2.png" class="thumbnail" style="max-width: 100%;"></a></p> 
+<div class="cards">
+<div class="card">
+<p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/external-validity-book">External Validity: Practices and Principles</a>." Under contract with <b><i>Cambridge University Press</i></b> (w/ Mike Findley & Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev2.png" class="thumbnail" style="max-width: 100%;"></a></p></div>
+</div>
 
 ### Academic Publications 
 <div class="cards">
