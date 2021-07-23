@@ -41,7 +41,7 @@ author_profile: yes
 <style>
 .card {
   padding: 1rem;
-  height: 200px;
+  height: 300px;
 }
 </style>
 
@@ -71,7 +71,7 @@ author_profile: yes
 ### Academic Publications 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/natural-resources-conflict">Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset</a>."<b><i> Journal of Conflict Resolution</i></b> (w/ Mike Findley, Joelean Hall, Andy Stravers & Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left;">" <a href="https://mikedenly.com/research/natural-resources-conflict">Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset</a>."<b><i> Journal of Conflict Resolution</i></b> (w/ Mike Findley, Joelean Hall, Andy Stravers & Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail"></a></p></div>
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/external-validity-arps">External Validity</a>."<b><i> Annual Review of Political Science</i></b> 2021. 24: 365–393 (w/ Mike Findley & Kyosuke Kikuta).<a href="https://mikedenly.com/research/external-validity-arps"><img src="/images/ev.png" class="thumbnail1"></a></p></div>
 </div>
