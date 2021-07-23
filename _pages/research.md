@@ -41,7 +41,7 @@ author_profile: yes
 <style>
 .card {
   padding: 1rem;
-  height: 300px;
+  height: 320px;
 }
 </style>
 
