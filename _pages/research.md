@@ -63,16 +63,6 @@ author_profile: yes
 <h2>Book</h2>
 <p style="font-size: 11.5pt; width: 47%; text-align: left; margin-right: 3%;">"<a href="https://mikedenly.com/research/external-validity-book">External Validity: Practices and Principles</a>." Under contract with <b><i>Cambridge University Press</i></b> (w/ Mike Findley & Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev2.png" class="thumbnail" style="max-width: 100%;"></a></p>
 
-<div class="cards">
-<h2>Published Academic Articles</h2>
-
-<div class="card"><h2>Book</h2>
-<p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/natural-resources-conflict">Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset</a>."<b><i> Journal of Conflict Resolution</i></b> (w/ Mike Findley, Joelean Hall, Andy Stravers & Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail"></a></p>
-</div>
-<div class="card">
-<p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/external-validity-arps">External Validity</a>."<b><i> Annual Review of Political Science</i></b> 2021. 24: 365–393 (w/ Mike Findley & Kyosuke Kikuta).<a href="https://mikedenly.com/research/external-validity-arps"><img src="/images/ev.png" class="thumbnail1></a></p>
-</div>
-
 <div class="card"><h2>Academic Working Papers</h2>
 
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption2">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (w/ Akshat Gautam).<a href="https://mikedenly.com/research/poverty-alignment-corruption2"><img src="/images/prop1and2.png" class="thumbnail"></a></p>
