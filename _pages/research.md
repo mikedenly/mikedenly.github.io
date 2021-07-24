@@ -28,7 +28,7 @@ author_profile: yes
 </style>
 
 <style>
-h3 {
+h2 {
   text-align: left;
 }
 </style>
