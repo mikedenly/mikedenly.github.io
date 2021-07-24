@@ -34,8 +34,8 @@ h2 {
 </style>
 
 <style>
-    h2, p {
-       margin: 0.25em;
+    h1, h2, p {
+       margin: 0.5em;
     }
 </style>
 
