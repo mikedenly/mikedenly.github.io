@@ -19,7 +19,7 @@ author_profile: yes
 <style>
 .thumbnail2 {
     background-color: black;
-    height: 229px;
+    height: 254px;
     display: inline-block;
     background-size: cover;
     background-position: center;
@@ -35,7 +35,7 @@ h2 {
 
 <style>
     h1, h2, p {
-       margin: 0.5em;
+       margin: 0.75em;
     }
 </style>
 
