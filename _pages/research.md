@@ -35,7 +35,7 @@ h2 {
 
 <style>
     h2, p {
-       margin: 0;
+       margin: 0.25em;
     }
 </style>
 
