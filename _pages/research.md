@@ -30,7 +30,7 @@ author_profile: yes
 <style>
 .card {
   margin-bottom: 0.25rem;
-  padding: 0.5em;
+  padding: 0.75em;
 }
 </style>
 
@@ -39,7 +39,7 @@ author_profile: yes
   max-width: 100%;
   margin: 0 auto;
   display: grid;
-  grid-gap: 1rem;
+  grid-gap: 0.25rem;
 }
 </style>
 
