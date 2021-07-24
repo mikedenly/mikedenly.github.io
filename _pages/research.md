@@ -39,13 +39,6 @@ author_profile: yes
 </style>
 
 <style>
-div {
-  display: flex;
-  flex-wrap: wrap;
-}
-</style>
-
-<style>
     h2, p {
        margin: 0.55em;
     }
@@ -68,7 +61,7 @@ div {
 </style>
 
 <style>
-@media screen and (min-width: 700px) {
+@media (min-width: 700px) {
   .cards { grid-template-columns: repeat(2, 1fr); }
 }
 </style>
