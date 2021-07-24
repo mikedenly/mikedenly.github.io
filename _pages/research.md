@@ -39,6 +39,13 @@ author_profile: yes
 </style>
 
 <style>
+div {
+  display: flex;
+  flex-wrap: wrap;
+}
+</style>
+
+<style>
     h2, p {
        margin: 0.55em;
     }
