@@ -45,7 +45,7 @@ h2 {
   max-width: 100%;
   margin: 0 auto;
   display: grid;
-  grid-gap: 0.25rem;
+  grid-gap: 0.5rem;
 }
 </style>
 
@@ -62,7 +62,7 @@ h2 {
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/external-validity-book">External Validity: Practices and Principles</a>." Under contract with <b><i>Cambridge University Press</i></b> (w/ Mike Findley & Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev2.png" class="thumbnail" style="width: 100%"></a></p></div>
 </div>
 
-<h2>Academic Publications</h2>
+<h2>Published Academic Articles</h2>
 <div class="cards">
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/natural-resources-conflict">Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset</a>."<b><i> Journal of Conflict Resolution</i></b> (w/ Mike Findley, Joelean Hall, Andy Stravers & Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail" style="width: 100%;"></a></p></div>
