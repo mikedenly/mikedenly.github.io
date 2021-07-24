@@ -68,7 +68,7 @@ div {
 </style>
 
 <style>
-@media (min-width: 700px) {
+@media screen and (min-width: 700px) {
   .cards { grid-template-columns: repeat(2, 1fr); }
 }
 </style>
