@@ -34,6 +34,12 @@ h2 {
 </style>
 
 <style>
+    h2, p {
+       margin: 0;
+    }
+</style>
+
+<style>
 .card {
   margin-bottom: 0.25em;
   padding: 0.75em;
