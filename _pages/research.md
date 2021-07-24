@@ -29,7 +29,8 @@ author_profile: yes
 
 <style>
 .card {
-  margin-bottom: 1rem;
+  margin-bottom: 0.25rem;
+  padding: 0.5em;
 }
 </style>
 
