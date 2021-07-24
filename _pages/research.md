@@ -28,6 +28,12 @@ author_profile: yes
 </style>
 
 <style>
+h3 {
+  text-align: left;
+}
+</style>
+
+<style>
 .card {
   margin-bottom: 0.25rem;
   padding: 0.75em;
@@ -49,7 +55,7 @@ author_profile: yes
 }
 </style>
 
-##Book
+<h2>Book</h2>
 
 <div class="cards">
 <div class="card">
