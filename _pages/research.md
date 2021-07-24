@@ -50,6 +50,7 @@ author_profile: yes
 </style>
 
 ##Book
+
 <div class="cards">
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left;">"<a href="https://mikedenly.com/research/external-validity-book">External Validity: Practices and Principles</a>." Under contract with <b><i>Cambridge University Press</i></b> (w/ Mike Findley & Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/ev2.png" class="thumbnail"></a></p></div>
