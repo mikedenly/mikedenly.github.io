@@ -61,7 +61,7 @@ author_profile: yes
 </style>
 
 <style>
-@media (min-width: 650px) {
+@media (min-width: 700px) {
   .cards { grid-template-columns: repeat(2, 1fr); }
 }
 </style>
