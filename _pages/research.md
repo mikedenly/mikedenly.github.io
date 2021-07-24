@@ -26,6 +26,11 @@ author_profile: yes
     background-repeat: no-repeat;
 }
 </style>
+<style>
+    h1, h2 {
+       margin: 0.75em;
+    }
+</style>
 
 <style>
 h2 {
@@ -34,7 +39,7 @@ h2 {
 </style>
 
 <style>
-    h1, h2, p {
+    h2, p {
        margin: 0.75em;
     }
 </style>
