@@ -17,6 +17,17 @@ author_profile: yes
 </style>
 
 <style>
+.thumbnail1 {
+    background-color: black;
+    height: 228px;
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+</style>
+
+<style>
 .thumbnail2 {
     background-color: black;
     height: 254px;
@@ -25,11 +36,6 @@ author_profile: yes
     background-position: center;
     background-repeat: no-repeat;
 }
-</style>
-<style>
-    h1, h2 {
-       margin: 0.75em;
-    }
 </style>
 
 <style>
@@ -40,7 +46,7 @@ h2 {
 
 <style>
     h2, p {
-       margin: 0.75em;
+       margin: 0.55em;
     }
 </style>
 
