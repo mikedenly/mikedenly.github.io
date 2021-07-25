@@ -7,7 +7,7 @@ collection: research
 <style>
 .thumbnailevarps {
     background-color: black;
-    height: 300px;
+    height: 250px;
     display: inline-block; 
     background-size: cover; 
     background-position: center center;
