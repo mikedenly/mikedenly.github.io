@@ -21,4 +21,4 @@ collection: research
 
 <p style="font-size: 12pt; width: 100%; text-align: left;">NOTE: Due to COVID-19, we paused data collection for this project in March 2020. We will resume data collection once it is safe to do so. </p>
 
-<p style="font-size: 12pt; width: 100%; text-align: left;"><img src="/images/trace_plots.png" class="thumbnailmc" style="width: 90%;"></p>
+<p style="font-size: 12pt; width: 100%; text-align: left;"><img src="/images/trace_plots.png" class="thumbnailmc" style="width: 94%;"></p>
