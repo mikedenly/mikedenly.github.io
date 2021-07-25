@@ -7,10 +7,7 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /files/Denly_CV_English.pdf
-    
-  - title: "Workshops"
-    url: /workshops/  
+    url: /files/Denly_CV_English.pdf 
     
   - title: "Blog"
     url: /blog/
