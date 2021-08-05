@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor"
 permalink: /teaching/practicum-semester2
 venue: "University of Texas at Austin, Department of Government (GOV 355D)"
-date: 2021-01-01
+date: 2021-07-15
 location: "City, Country"
 ---
 
