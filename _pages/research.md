@@ -92,7 +92,7 @@ author_profile: yes
 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Informal Influence</a>."<i> Presented at the Political Economy of International Organizations (PEIO) Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Influence</a>."<i> Presented at the Political Economy of International Organizations (PEIO) Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" class="thumbnail" style="width: 90%;"></a></p></div>
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem">Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan</a>."<i> Pre-Analysis Plan</i> (w/ Torben Behmer, Mobin Piracha & Adi Tantravahi). <a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem"><img src="/images/trace_plots2.png" class="thumbnail1" style="width: 90%;"></a></p></div> 
 </div>
