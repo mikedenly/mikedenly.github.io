@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate in the Department of Government at the University of Texas at Austin, and I also serve as Governance Team Leader at Innovations for Peace and Development. My substantive [research](https://mikedenly.com/research/) focuses on the political economy of development, with an emphasis on corruption, natural resources, and foreign aid. I also have a separate methodological research agenda that centers on external validity. My work appears in the *Annual Review of Political Science* and is forthcoming in the *Journal of Conflict Resolution*.
+Welcome! I am a Ph.D. Candidate in the Department of Government at the University of Texas at Austin, and I also serve as Governance Team Leader at Innovations for Peace and Development. My substantive [research](https://mikedenly.com/research/) focuses on the political economy of development, with an emphasis on corruption, natural resources, and foreign aid. I also have a separate methodological research agenda that centers on external validity. My work appears in the *Annual Review of Political Science* and is forthcoming in the *Journal of Conflict Resolution*.
 
 Prior to joining UT Austin, I worked for the US State Department, the European Commission, and the World Bank. Since starting my Ph.D., I have consulted extensively for the World Bank and USAID on governance and anti-corruption issues. 
 
