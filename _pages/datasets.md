@@ -40,7 +40,7 @@ author_profile: yes
 
 <style>
     h2, p {
-       margin: 0.85em;
+       margin: 1em;
     }
 </style>
 
@@ -67,7 +67,7 @@ author_profile: yes
 </style>
 
 
-<p style="font-size: 14.5pt; text-align: left; margin-bottom: 0.25em;"><a href="https://mikedenly.com/research/natural-resources-conflict">The Global Resources Dataset</a></p>
+<p style="font-size: 14.5pt; text-align: left; margin-bottom: 0.0em;"><a href="https://mikedenly.com/research/natural-resources-conflict">The Global Resources Dataset</a></p>
 
 <p style="font-size: 14.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail2" style="width: 70%;"></a></p>
 
