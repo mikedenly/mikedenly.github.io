@@ -1,6 +1,6 @@
 ---
 title: "The Global Resources Dataset"
-permalink: /datasets/global-resources-dataset/
+permalink: /datasets/global-resources-dataset
 collection: datasets
 ---
 
