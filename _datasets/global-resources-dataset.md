@@ -15,7 +15,7 @@ collection: datasets
 }
 </style>
 
-*Joint work with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh.*
+<i>Joint work with Mike Findley, Joelean Hall, Andy Stravers, and Jim Walsh.</i>
 
 <p style="font-size: 12pt; width: 100%; text-align: left;">The Global Resources Dataset (GRD) is the world's largest time-varying, spatial natural resources dataset. The current version of the GRD covers 197 resources and in 116 countries. All 77,000 observations have latitude and longitude coordinates, and most observations contain resource output information as well as price/value details from multiple sources. Below, you can find links to download the data, the codebook, and the article in the <i>Journal of Conflict Resolution</i> introducing the GRD. Feel free to reach out with questions. [<a href="https://mikedenly.com/files/GRD_Codebook.pdf">Codebook</a>] [<a href="https://mikedenly.com/research/natural-resources-conflict">Journal Article</a>]</p> 
 
