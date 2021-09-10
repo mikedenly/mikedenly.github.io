@@ -66,8 +66,9 @@ author_profile: yes
 }
 </style>
 
-<h2>Global Resources Datasets</h2>
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail" style="width: 90%;"></a></p>
+<br>
+<h2>The Global Resources Dataset</h2>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail2" style="width: 90%;"></a></p>
 
 
 
