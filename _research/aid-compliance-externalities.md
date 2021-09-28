@@ -1,5 +1,5 @@
 ---
-title: "Preventing the Negative Externalities of Development: Aid Compliance, State Capacity, and At-Risk Groups"
+title: "Preventing the Negative Externalities of Development: Aid Compliance, Taxation, and At-Risk Groups"
 permalink: /research/aid-compliance-externalities
 collection: research
 ---
