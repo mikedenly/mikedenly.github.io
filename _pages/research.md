@@ -97,6 +97,14 @@ author_profile: yes
 <p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem">Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan</a>."<i> Pre-Analysis Plan</i> (w/ Torben Behmer, Mobin Piracha & Adi Tantravahi). <a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem"><img src="/images/trace_plots2.png" class="thumbnail1" style="width: 90%;"></a></p></div> 
 </div>
 
+
+<div class="cards">
+<div class="card">
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-compliance-externalities">Preventing the Negative Externalities of Development: Aid Compliance, Taxation, and At-Risk Groups</a>."<i> Presented at the American Political Science Association (APSA) Annual Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-compliance-externalities"><img src="/images/RevisedPA3.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<div class="card">
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-corruption-gaaps">Aid, Institutions, and the Potential of Anti-Corruption</a>."<i> Working Paper</i>. <a href="https://mikedenly.com/research/aid-corruption-gaaps"><img src="/images/gaaps_map2.png" class="thumbnail1" style="width: 90%;"></a></p></div> 
+</div>
+
 <h2>Policy Publications</h2> 
 
 <div class="cards">
