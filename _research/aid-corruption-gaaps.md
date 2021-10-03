@@ -1,5 +1,5 @@
 ---
-title: "Aid, Institutions, and The Potential of Anti-Corruption"
+title: "Aid, Institutions, and the Potential of Anti-Corruption"
 permalink: /research/aid-corruption-gaaps 
 collection: research
 ---
