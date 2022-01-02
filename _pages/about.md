@@ -12,9 +12,7 @@ Welcome! I am a Ph.D. Candidate in the Department of Government at the Universit
 
 Prior to joining UT Austin, I worked for the US State Department, the European Commission, and the World Bank. Since starting my Ph.D., I have consulted extensively for the World Bank, USAID, and Inter-American Development Bank on governance, anti-corruption, and natural resources. 
 
-I am currently on the academic job market for comparative politics, international relations, and methods jobs.
-
-![](/images/gradhatpng.png) Ph.D., University of Texas at Austin (expected 2021)
+![](/images/gradhatpng.png) Ph.D., University of Texas at Austin (expected 2022)
 <br>![](/images/gradhatpng.png) Dual M.A., Georgetown University and Universidad Nacional de San Martín, Argentina (2015)
 <br>![](/images/gradhatpng.png) M.Sc., Maastricht University, Graduate School of Governance, Netherlands (2008)
 <br>![](/images/gradhatpng.png) B.A., University of Denver (2006) 
