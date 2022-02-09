@@ -121,7 +121,7 @@ fae_balanced <- make.pbalanced(fae_all,
                                index = c("country_id","year")) 
 ```
 
-Since we used the numeric country\_id variable to balance the panel, it means that we are going to have some missing country\_name observations. Let's first figure out which countries do not have a country name attached to them:
+Since we used the numeric `country\_id` variable to balance the panel, it means that we are going to have some missing `country\_name` observations. Let's first figure out which countries do not have a country name attached to them:
 
 ``` r
 subset(fae_balanced, is.na(country_name))
@@ -137,7 +137,7 @@ subset(fae_balanced, is.na(country_name))
     ## 786         <NA> 2004         <NA>         47
     ## 787         <NA> 2005         <NA>         47
 
-Note that we have country\_id observations with missing country names, so we can use those IDs to identify the corresponding missing countries:
+Note that we have `country\_id` observations with missing country names, so we can use those IDs to identify the corresponding missing countries:
 
 ``` r
 subset(fae_balanced, country_id==17|country_id==29|country_id==47) 
