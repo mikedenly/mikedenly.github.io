@@ -102,7 +102,7 @@ author_profile: yes
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-compliance-externalities">Preventing the Negative Externalities of Development: Aid Compliance, Taxation, and At-Risk Groups</a>."<i> Presented at American Political Science Association (APSA) Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-compliance-externalities"><img src="/images/RevisedPA3.png" class="thumbnail" style="width: 90%;"></a></p></div>
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-corruption-gaaps">Aid, Institutions, and the Potential of Anti-Corruption</a>."<i> Presenting at the Midwest Political Science Association (MPSA) Conference, 2022.</i>. <a href="https://mikedenly.com/research/aid-corruption-gaaps"><img src="/images/GAAPs_lollipop_wide.pdf" class="thumbnail1" style="width: 90%;"></a></p></div> 
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-corruption-gaaps">Aid, Institutions, and the Potential of Anti-Corruption</a>."<i> Presenting at the Midwest Political Science Association (MPSA) Conference, 2022.</i>. <a href="https://mikedenly.com/research/aid-corruption-gaaps"><img src="/images/GAAPs_lollipop_wide.png" class="thumbnail1" style="width: 90%;"></a></p></div> 
 </div>
 
 <h2>Policy Publications</h2> 
