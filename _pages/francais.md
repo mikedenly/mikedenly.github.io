@@ -1,6 +1,6 @@
 ---
 permalink: /francais
-title: "Mike Denly"
+title: ""
 author_profile: true
 ---
 
