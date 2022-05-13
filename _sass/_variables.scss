@@ -47,6 +47,8 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
+$accent-color               : #001C43;  // mike modification
+
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -90,11 +92,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #001C43;
-$link-color-hover           : #001C43;
+$link-color                 : $accent color;
+$link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : #001C43;
-$masthead-link-color-hover  : #001C43;
+$masthead-link-color        : $primary-color;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
 /*
