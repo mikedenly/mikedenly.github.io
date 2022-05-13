@@ -48,6 +48,7 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 $accent-color               : #24678d;  // mike modification
+$hover-color                : #ad1a2b; // mike modification
 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
@@ -93,7 +94,7 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $accent color;
-$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-hover           : mix(#000, $hover-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
