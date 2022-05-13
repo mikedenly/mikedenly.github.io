@@ -14,3 +14,9 @@ main:
     
   - title: "Blog"
     url: /blog/
+
+  - title: "Español"
+    url: /espanol/
+
+  - title: "Français"
+    url: /francais/
