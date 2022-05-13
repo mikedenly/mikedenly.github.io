@@ -12,7 +12,7 @@ Fuera del mundo académico, trabajé como empleado y/o consultor para la Agencia
    
 
 ![](/images/gradhatpng.png) Ph.D., University of Texas at Austin (2022)
-<br>![](/images/gradhatpng.png) M.A. (doble), Georgetown University y Universidad Nacional de San Martín, Argentine (2015)
+<br>![](/images/gradhatpng.png) M.A. (doble), Georgetown University/Universidad Nacional de San Martín, Argentina (2015)
 <br>![](/images/gradhatpng.png) M.Sc., Universiteit Maastricht, Pays-Bas (2008)
 <br>![](/images/gradhatpng.png) B.A., University of Denver (2006) 
-<br> &nbsp; &nbsp; &nbsp; ![](/images/bullet.png) Échanges universitaires: Université de Lausanne, Suisse et Università di Bologna, Italie (2005)
+<br> &nbsp; &nbsp; &nbsp; ![](/images/bullet.png) Intercambios: Université de Lausanne, Suiza et Università di Bologna, Italia (2005)
