@@ -10,7 +10,7 @@ locale                   : "es-AR"
 title                    : "Mike Denly"
 title_separator          : "-"
 name                     : &name "Mike Denly"
-description              : &description "Political economy and international development reseacher with a Ph.D. from UT Austin. Anti-corruption consultant. Avid soccer and tennis player."
+description              : &description "Political economy of development reseacher with a Ph.D. from UT Austin. Anti-corruption consultant. Avid soccer and tennis player."
 url                      : https://mikedenly.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mikedenly/mikedenly.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mike Denly" 
   avatar           : "pic2.png"
-  bio              : "Political economy and international development reseacher with a Ph.D. from UT Austin. Anti-corruption consultant. Avid soccer and tennis player."
+  bio              : "Political economy of development reseacher with a Ph.D. from UT Austin. Anti-corruption consultant. Avid soccer and tennis player."
   location         : #"Mezes 3.232"
   employer         : 
   pubmed           : 
