@@ -1,5 +1,5 @@
 ---
-title: "External Validity: Practices and Principles"
+title: "External Validity for Social Inquiry"
 permalink: /research/external-validity-book
 collection: research
 ---
