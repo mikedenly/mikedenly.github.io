@@ -85,14 +85,14 @@ author_profile: yes
 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption2">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (w/ Akshat Gautam).<a href="https://mikedenly.com/research/poverty-alignment-corruption2"><img src="/images/prop1and2.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption2">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (w/ Akshat Gautam). <a href="https://mikedenly.com/research/poverty-alignment-corruption2"><img src="/images/prop1and2.png" class="thumbnail" style="width: 90%;"></a></p></div>
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i> Presented at the European Consortium for Political Research (ECPR) General Conference</i>, 2020.<a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i> Presented at the European Consortium for Political Research (ECPR) General Conference</i>. <a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" class="thumbnail" style="width: 90%;"></a></p></div>
 </div>
 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules Versus Influence</a>."<i> Presented at the Political Economy of International Organizations (PEIO) Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-strategic">Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules Versus Influence</a>."<i> Presented at the Political Economy of International Organizations (PEIO) Conference</i>. <a href="https://mikedenly.com/research/aid-strategic"><img src="/images/foreign_aid.png" class="thumbnail" style="width: 90%;"></a></p></div>
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem">Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan</a>."<i> Pre-Analysis Plan</i> (w/ Torben Behmer, Mobin Piracha & Adi Tantravahi). <a href="https://mikedenly.com/research/monitoring-corruption-collective-action-problem"><img src="/images/trace_plots.png" class="thumbnail1" style="width: 90%;"></a></p></div> 
 </div>
@@ -100,9 +100,9 @@ author_profile: yes
 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-compliance-externalities">Preventing the Negative Externalities of Development: Aid Compliance, Taxation, and At-Risk Groups</a>."<i> Presented at American Political Science Association (APSA) Conference</i>, 2021. <a href="https://mikedenly.com/research/aid-compliance-externalities"><img src="/images/RevisedPA3.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-compliance-externalities">Preventing the Negative Externalities of Development: Aid Compliance, Taxation, and At-Risk Groups</a>."<i> Presented at American Political Science Association (APSA) Conference</i>.  <a href="https://mikedenly.com/research/aid-compliance-externalities"><img src="/images/RevisedPA3.png" class="thumbnail" style="width: 90%;"></a></p></div>
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-corruption-gaaps">Aid, Institutions, and the Potential of Anti-Corruption</a>."<i> Presented at the Midwest Political Science Association (MPSA) Conference, 2022.</i>. <a href="https://mikedenly.com/research/aid-corruption-gaaps"><img src="/images/gaaps_map2.png" class="thumbnail1" style="width: 90%;"></a></p></div> 
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-corruption-gaaps">Aid, Institutions, and the Potential of Anti-Corruption</a>."<i> Presented at the Midwest Political Science Association (MPSA) Conference</i>. <a href="https://mikedenly.com/research/aid-corruption-gaaps"><img src="/images/gaaps_map2.png" class="thumbnail1" style="width: 90%;"></a></p></div> 
 </div>
 
 <h2>Policy Publications</h2> 
