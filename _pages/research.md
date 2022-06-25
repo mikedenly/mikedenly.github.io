@@ -111,7 +111,7 @@ author_profile: yes
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/files/governance-armenia-usaid.pdf">Governance in Armenia</a>." USAID, 2019 (w/ Mike Findley, John Gerring & Rachel Wellhausen).<a href="https://mikedenly.com/files/governance-armenia-usaid.pdf"><img src="/images/usaid_armenia_governance.png" class="thumbnail" style="width: 90%;"></a></p></div>
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf">Integrity Systems and the Rule of Law in Armenia</a>." USAID, 2019 (w/ Mike Findley, Vepa Rejepov & Rachel Wellhausen). <a href="https://pdf.usaid.gov/pdf_docs/PA00TNMJ.pdf"><img src="/images/usaid_armenia_rol.png" class="thumbnail" style="width: 90%;" ></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/files/governance-armenia-usaid.pdf">Integrity Systems and the Rule of Law in Armenia</a>." USAID, 2019 (w/ Mike Findley, Vepa Rejepov & Rachel Wellhausen). <a href="https://mikedenly.com/files/governance-armenia-usaid.pdf"><img src="/images/usaid_armenia_rol.png" class="thumbnail" style="width: 90%;" ></a></p></div>
 </div>
 
 <h2>Media</h2>
