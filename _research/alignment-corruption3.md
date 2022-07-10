@@ -1,5 +1,5 @@
 ---
-title: "Party Alignment and the Corruption-Reducing Effects of Lower Poverty and Violence: Evidence from Mexico"
+title: "Clarity of Responsibility, Corruption, and Voters' Basic Needs: Evidence from Mexico"
 permalink: /research/alignment-corruption3
 collection: research
 ---
