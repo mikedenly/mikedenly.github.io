@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a postdoctoral Research Fellow at the Institute for Advanced Study in Toulouse, France. In May 2022, I obtained my Ph.D. in Government at the University of Texas at Austin, where I also served as a Research Fellow at the Innovations for Peace and Development lab. 
+Welcome! I am a postdoctoral Research Fellow at the Institute for Advanced Study in Toulouse. In May 2022, I obtained my Ph.D. in Government at the University of Texas at Austin, where I also served as a Research Fellow at the Innovations for Peace and Development lab. 
 
 My substantive [research](https://mikedenly.com/research/) focuses on the political economy of development, with an emphasis on corruption, foreign aid, and natural resources. I also have a separate methodological research agenda that centers on external validity. My work appears in the *Annual Review of Political Science* and *Journal of Conflict Resolution*.
 
