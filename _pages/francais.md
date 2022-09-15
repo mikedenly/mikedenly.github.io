@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-Bienvenu(e) à mon site web ! J’ai récemment obtenu mon doctorat en sciences politiques à l’Université de Texas, Austin, où j’ai ainsi travaillé comme chercheur au laboratoire d’Innovations for Peace and Development. En septembre 2022, je commencerai un poste de chercheur postdoc à l’Institut d’études avancées, Toulouse.
+Bienvenu(e) à mon site web ! Je travaille comme chercheur post-doc à l’Institut d’études avancées, Toulouse. En mai 2022, j’ai obtenu mon doctorat en sciences politiques à l’Université de Texas, Austin, où j’ai ainsi travaillé comme chercheur au laboratoire d’Innovations for Peace and Development. 
 
 Mes [recherches](https://mikedenly.com/research/) portent sur l’économie politique du développement, et plus particulièrement sur la corruption, l’aide extérieure et les ressources naturelles. Méthodologiquement, je travaille également sur la validité externe. Mes articles ont été publiés dans *Annual Review of Political Science* et *Journal of Conflict Resolution*. 
 
