@@ -10,7 +10,7 @@ locale                   : "es-AR"
 title                    : "Mike Denly"
 title_separator          : "-"
 name                     : &name "Mike Denly"
-description              : &description "Postdoctoral Research Fellow at the Institute for Advanced Study in Toulouse, focusing on external validity and the political economy of development, especially corruption, foreign aid, and natural resources. Avid soccer and tennis player."
+description              : &description "Research Fellow at IAST, focusing on external validity and the political economy of development, especially corruption, foreign aid, and natural resources. Avid soccer and tennis player."
 url                      : https://mikedenly.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mikedenly/mikedenly.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mike Denly" 
   avatar           : "pic2.png"
-  bio              : "Postdoctoral Research Fellow at the Institute for Advanced Study in Toulouse, focusing on external validity and the political economy of development, especially corruption, foreign aid, and natural resources. Avid soccer and tennis player."
+  bio              : "Research Fellow at IAST, focusing on external validity and the political economy of development, especially corruption, foreign aid, and natural resources. Avid soccer and tennis player."
   location         : #"Mezes 3.232"
   employer         : 
   pubmed           : 
