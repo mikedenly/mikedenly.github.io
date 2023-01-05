@@ -21,4 +21,4 @@ collection: datasets
 
 <p style="font-size: 12pt; width: 100%; text-align: left;"><img src="/images/world_nr.png" class="thumbnailnrc" style="width: 94%;"></p>
 
-<p style="font-size: 10pt; width: 100%; text-align: left;">The Global Resources Dataset</p> 
+<p style="font-size: 10pt; width: 100%; text-align: left;">The Global Resources Dataset</p>  
