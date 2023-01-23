@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a postdoctoral Research Fellow at the Institute for Advanced Study in Toulouse (IAST) and a Faculty Affiliate at the University of Texas at Austin's Innovations for Peace and Development lab. My substantive [research](https://mikedenly.com/research/) focuses on the political economy of development, with an emphasis on corruption, foreign aid, and natural resources. I also have a separate methodological research agenda that centers on external validity. My work appears in the *Annual Review of Political Science* and *Journal of Conflict Resolution*.
+Welcome! I am a postdoctoral Research Fellow at the Institute for Advanced Study in Toulouse (IAST) and a Faculty Affiliate at the University of Texas at Austin's Innovations for Peace and Development lab. In fall 2023, I will be joining Texas A&M's Bush School of Government and Public Service as an Assistant Professor. 
+
+My substantive [research](https://mikedenly.com/research/) focuses on the political economy of development, with an emphasis on corruption, foreign aid, and natural resources. I also have a separate methodological research agenda that centers on external validity. My work appears in the *Annual Review of Political Science* and *Journal of Conflict Resolution*.
 
 Outside of academia, I have worked and/or consulted for the US State Department, the European Commission, the World Bank, USAID, and Inter-American Development Bank. Most of my recent work with these institutions concerns governance, anti-corruption, and natural resources. 
 

@@ -2,6 +2,9 @@
 title: "External Validity"
 permalink: /research/external-validity-arps
 collection: research
+redirect_from: 
+  - /about/
+  - /files/external-validity-ARPS.pdf
 ---
 
 <style>
