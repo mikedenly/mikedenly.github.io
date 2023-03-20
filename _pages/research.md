@@ -39,6 +39,17 @@ author_profile: yes
 </style>
 
 <style>
+.thumbnail3 {
+    background-color: black;
+    height: 180px;
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+</style>
+
+<style>
     h2, p {
        margin: 0.55em;
     }
@@ -100,7 +111,7 @@ author_profile: yes
 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-compliance-externalities">Preventing the Negative Externalities of Development: Aid Compliance, Taxation, and At-Risk Groups</a>."<i> Presented at American Political Science Association (APSA) Conference</i>.  <a href="https://mikedenly.com/research/aid-compliance-externalities"><img src="/images/RevisedPA3.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-compliance-externalities">Preventing the Negative Externalities of Development: Aid Compliance, Incomplete Contracts, and State Capacity</a>."<i> Presented at American Political Science Association (APSA) Conference</i>.  <a href="https://mikedenly.com/research/aid-compliance-externalities"><img src="/images/RevisedPA3.png" class="thumbnail3" style="width: 90%;"></a></p></div>
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/aid-corruption-gaaps">Aid, Institutions, and the Potential of Anti-Corruption</a>."<i> Presented at the Midwest Political Science Association (MPSA) Conference</i>. <a href="https://mikedenly.com/research/aid-corruption-gaaps"><img src="/images/gaaps_map2.png" class="thumbnail1" style="width: 90%;"></a></p></div> 
 </div>
