@@ -96,7 +96,7 @@ author_profile: yes
 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption2">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (w/ Akshat Gautam). <a href="https://mikedenly.com/research/poverty-alignment-corruption2"><img src="/images/prop1and2.png" class="thumbnail" style="width: 90%;"></a></p></div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/poverty-alignment-corruption">Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala</a>."<i> Under Review</i> (w/ Akshat Gautam). <a href="https://mikedenly.com/research/poverty-alignment-corruption"><img src="/images/prop1and2.png" class="thumbnail" style="width: 90%;"></a></p></div>
 <div class="card">
 <p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/audit-measurement">Measuring Corruption Using Governmental Audits: A New Framework and Dataset</a>."<i> Presented at the European Consortium for Political Research (ECPR) General Conference</i>. <a href="https://mikedenly.com/research/audit-measurement"><img src="/images/new_pillars.png" class="thumbnail" style="width: 90%;"></a></p></div>
 </div>
