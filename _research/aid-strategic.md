@@ -1,5 +1,5 @@
 ---
-title: "Institutional Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Influence "
+title: "Bureaucratic Autonomy and Donor Strategic Interest in Multilateral Foreign Aid: Rules vs. Influence "
 permalink: /research/aid-strategic
 collection: research
 ---
