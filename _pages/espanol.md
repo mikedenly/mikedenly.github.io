@@ -4,11 +4,9 @@ title: ""
 author_profile: true
 ---
 
-¡Bienvenido/a mi página web! Trabajo como investigador postdoctoral en el Instituto de Estudios Avanzados de Toulouse (IAST) y como profesor afiliado (Faculty Affiliate) en el laboratorio de *Innovations for Peace and Development* de la Universidad de Tejas en Austin. En otoño 2023, uniré a la Escuela Bush de la Universidad Texas A&M como profesor adjunto (Assistant Professor).
+¡Bienvenido/a mi página web! Trabajo como profesor adjunto (Assistant Professor) en la Escuela Bush de Gobierno y Servicio Público de la Universidad Texas A&M. Mi [investigación](https://mikedenly.com/research/) se concentra en la economía política del desarrollo, con énfasis en corrupción, ayuda externa y recursos naturales. Metodológicamente, trabajo sobre validez externa. Mis artículos han sido publicados en *Annual Review of Political Science* y *Journal of Conflict Resolution*.
 
-Mi [investigación](https://mikedenly.com/research/) se concentra en la economía política del desarrollo, con énfasis en corrupción, ayuda externa y recursos naturales. Metodológicamente, trabajo sobre validez externa. Mis artículos han sido publicados en *Annual Review of Political Science* y *Journal of Conflict Resolution*.
-
-Fuera del mundo académico, trabajé como empleado y/o consultor para la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID), el Banco Mundial, el Banco Interamericano de Desarrollo, la Comisión Europea y el Departamento de Estado de los Estados Unidos. La mayoría de mis trabajos recientes con estas instituciones son dedicados a gobernanza, corrupción y recursos naturales. 
+Fuera del mundo académico, trabajé como empleado y/o consultor para la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID), el Banco Mundial, el Banco Interamericano de Desarrollo, la Comisión Europea y el Departamento de Estado de los Estados Unidos. 
    
 
 ![](/images/gradhatpng.png) Ph.D., University of Texas at Austin (2022)
