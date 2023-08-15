@@ -3,7 +3,7 @@ title: "Quantitative Methods for Public Management I"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/practicum-semester1
-venue: "Texas A&M University, Bush 631"
+venue: "Texas A&M University, Bush School of Government (Bush 631)"
 date: 2023-08-14
 location: "City, Country"
 ---
