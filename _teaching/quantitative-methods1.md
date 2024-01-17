@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor"
 permalink: /teaching/quantitative-methods1
 venue: "Texas A&M University, Bush School of Government and Public Service (Bush 631)"
-date: 2023-08-14
+date: 2024-01-10
 location: "City, Country"
 ---
 
