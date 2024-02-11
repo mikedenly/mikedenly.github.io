@@ -2,8 +2,6 @@
 title: "Poverty, Party Alignment, and Reducing Corruption through Modernization: Evidence from Guatemala"
 permalink: /research/poverty-alignment-corruption
 collection: research
-redirect_from: 
-  - /research/poverty-alignment-corruption2
 ---
 
 <style>
