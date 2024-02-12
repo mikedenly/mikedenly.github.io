@@ -19,7 +19,7 @@ install_if -> { ENV["GITHUB_ACTIONS"] != "true" } do
     gem "webrick", "~> 1.8"
 end
 
-gem "jekyll", "~> 4.2"
+gem "jekyll", "3.9.4"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
