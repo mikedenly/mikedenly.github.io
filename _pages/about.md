@@ -3,9 +3,6 @@ permalink: /
 title: ""
 excerpt: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Welcome! I am an Assistant Professor at Texas A&M's Bush School of Government and Public Service. My substantive [research](https://mikedenly.com/research/) focuses on the political economy of development, with an emphasis on corruption, foreign aid, and natural resources. I also have a separate methodological research agenda that centers on external validity. My work appears in the *Annual Review of Political Science* and *Journal of Conflict Resolution*.
