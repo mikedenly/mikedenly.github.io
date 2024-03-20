@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-Bienvenu(e) à mon site web ! Je travaille comme comme maître de conférences (Assistant Professor) à l'École Bush de l'Université Texas A&M. Mes [recherches](https://mikedenly.com/research/) portent sur l’économie politique du développement, et plus particulièrement sur la corruption, l’aide extérieure et les ressources naturelles. Méthodologiquement, je travaille également sur la validité externe. Mes articles ont été publiés dans *Annual Review of Political Science* et *Journal of Conflict Resolution*.
+Bienvenu(e) à mon site web ! Je travaille comme maître de conférences (Assistant Professor) et comme directeur du [Lab for Economic Development Research (LEDR)](https://bush.tamu.edu/mosbacher/ledr/) à l'École Bush de l'Université Texas A&M. Mes [recherches](https://mikedenly.com/research/) portent sur l’économie politique du développement, et plus particulièrement sur la corruption, l’aide extérieure et les ressources naturelles. Méthodologiquement, je travaille également sur la validité externe. Mes articles ont été publiés dans *Annual Review of Political Science* et *Journal of Conflict Resolution*.
 
 En dehors du milieu universitaire, j’ai travaillé comme membre du personnel et/ou comme consultant pour l’Agence des États-Unis pour le développement international (USAID), la Banque mondiale, la Banque interaméricaine de développement, la Commission européenne et le Département d'État des États-Unis. 
 

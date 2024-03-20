@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-¡Bienvenido/a mi página web! Trabajo como profesor adjunto (Assistant Professor) en la Escuela Bush de Gobierno y Servicio Público de la Universidad Texas A&M. Mi [investigación](https://mikedenly.com/research/) se concentra en la economía política del desarrollo, con énfasis en corrupción, ayuda externa y recursos naturales. Metodológicamente, trabajo sobre validez externa. Mis artículos han sido publicados en *Annual Review of Political Science* y *Journal of Conflict Resolution*.
+¡Bienvenido/a mi página web! Trabajo como profesor adjunto (Assistant Professor) y Director Ejecutivo del [Lab for Economic Development Research (LEDR)](https://bush.tamu.edu/mosbacher/ledr/) en la Escuela Bush de Gobierno y Servicio Público de la Universidad Texas A&M. Mi [investigación](https://mikedenly.com/research/) se concentra en la economía política del desarrollo, con énfasis en corrupción, ayuda externa y recursos naturales. Metodológicamente, trabajo sobre validez externa. Mis artículos han sido publicados en *Annual Review of Political Science* y *Journal of Conflict Resolution*.
 
 Fuera del mundo académico, trabajé como empleado y/o consultor para la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID), el Banco Mundial, el Banco Interamericano de Desarrollo, la Comisión Europea y el Departamento de Estado de los Estados Unidos. 
    
