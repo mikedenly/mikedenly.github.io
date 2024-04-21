@@ -3,7 +3,7 @@ title: "Foreign Aid"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/foreign-aid
-venue: "Texas A&M University, Bush School of Government and Public Service (Bush 631)"
+venue: "Texas A&M University, Bush School of Government and Public Service (Bush 689)"
 date: 2024-01-15
 location: "City, Country"
 ---
