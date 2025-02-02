@@ -2,7 +2,7 @@
 title: "Quantitative Methods for Public Management 2"
 collection: teaching
 type: "Instructor"
-permalink: /teaching/quantitative-methods1
+permalink: /teaching/quantitative-methods2
 venue: "Texas A&M University, Bush School of Government and Public Service (Bush 635)"
 date: 2025-01-10
 location: "City, Country"
