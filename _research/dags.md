@@ -1,5 +1,5 @@
 ---
-title: "DAG It: Drawing Assumptions Before Conclusions Changes Results"
+title: "Aligning Estimands, Identification, and Conclusions"
 permalink: /research/dags
 collection: research
 ---
@@ -15,8 +15,8 @@ collection: research
 }
 </style>
 
-Presenting at the *Causal Data Science Meeting* (with Graham Goff).
+Presented at the *Causal Data Science Meeting* (with Graham Goff).
 
-<p style="font-size: 12pt; width: 100%; text-align: left;">Problems in selecting controls variables can undermine observational regressions. To diagnose the extent of the problem, we examine all relevant articles in the 2024 edition of the American Political Science Review (APSR) and draw Directed Acyclic Graphs (DAGs) for each main result, incorporating feedback from the original authors. We find that 56% of articles control for colliders, mediators, or descendants, and 22% of articles omit estimand or identification qualifications when interpreting these variables. Replacing them with algorithmically-derived minimal and canonical adjustment sets also changes results: 30% of articles lose statistical significance, and average standard errors fall by 5%. These rates likely represent lower bounds on covariate-selection problems given APSR’s role as a flagship journal. To improve empirical practice, we develop an open-source R package, <a href="https://cran.r-project.org/web/packages/DAGassist/index.html">DAGassist</a>. It classifies variables by their role, compares full models to minimal/canonical specifications, and makes drawing assumptions before conclusions an easy part of social scientists’ workflows.</p> 
+<p style="font-size: 12pt; width: 100%; text-align: left;">We introduce a simple, reproducible workflow to align regressions with an estimand and the identification it requires. The workflow entails four steps: (1) declare an estimand; (2) draw a Directed Acyclic Graph (DAG); (3) classify control variables by role; and (4) estimate models using minimal and canonical adjustment sets. We implement the workflow in a user-friendly R package, <a href="https://cran.r-project.org/web/packages/DAGassist/index.html">DAGassist</a>. To illustrate its utility, we examine all 2024 American Political Science Review (APSR) articles using observational regressions with controls. Incorporating author feedback on our DAGs, we do not find any colliders. However, 64% of articles include non-admissible mediators or their descendants, and 21% of articles interpret them without qualifications. Removing non-admissible variables also changes results: 19% of articles lose statistical significance, and average standard errors fall by 4%. These rates likely constitute lower bounds given APSR’s flagship status. In turn, drawing assumptions before conclusions with <a href="https://cran.r-project.org/web/packages/DAGassist/index.html">DAGassist</a> can improve empirical practice.</p> 
 
-<p style="font-size: 12pt; width: 100%; text-align: left;"><img src="/images/DAGr.png" class="thumbnailsafeguards2" style="width: 80%;"></p>
+<p style="font-size: 12pt; width: 100%; text-align: left;"><img src="/images/DAGr.png" class="thumbnailsafeguards2" style="width: 95%;"></p>
