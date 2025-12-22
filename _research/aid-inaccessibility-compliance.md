@@ -1,5 +1,5 @@
 ---
-title: "Inaccessibility and Compliance: Geography, Institutions, and Agency in Foreign Aid?"
+title: "Inaccessibility and Compliance: Geography, Institutions, and Agency in Foreign Aid"
 permalink: /research/aid-inaccessibility-compliance
 collection: research
 ---
