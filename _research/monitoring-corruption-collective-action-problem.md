@@ -1,5 +1,5 @@
 ---
-title: "Monitoring Corruption and Overcoming the Collective Action Problem: Experimental Evidence from Pakistan"
+title: "Monitoring Corruption and Overcoming the Collective Action Problem: A Unified Model"
 permalink: /research/monitoring-corruption-collective-action-problem
 collection: research
 ---
@@ -15,10 +15,8 @@ collection: research
 }
 </style>
 
-*Pre-Analysis Plan registered with EGAP* (with Torben Behmer, Mobin Piracha & Adi Tantravahi).
+*Presented at the French Evolutionary Society for Human Sciences Annual Conference* (with Torben Behmer).
 
-<p style="font-size: 12pt; width: 100%; text-align: left;">Does monitoring corruption work? If so, which types of monitoring schemes are most effective at reducing corruption? To answer these questions, we model corruption as a collective action problem that may be mitigated with: (i) collective benefits that are subject to top-down principal-agent challenges; and (ii) private benefits that are subject to horizontal accountability challenges. Employing stability sets to adjudicate between the likelihood of different equilibria, we find that even incremental anti-corruption interventions mitigate corruption. To test the utility of our model, we undertake a related conjoint experiment on relatively poor Pakistani factory workers, a demographic that is frequently solicited for bribes. Consistent with our model, we expect to find that monitoring schemes with either collective or private benefits, including those provided by NGOs, increase citizens' willingness to refuse to pay bribes. However, we expect to find that the most effective monitoring schemes in fomenting citizen-level collective action against corruption combine both collective and private benefits. Such results would suggest that monitoring corruption is not only a good use of scarce resources but that success is mainly a matter of policy design. [<a href="https://mikedenly.com//files/DBPT_PAP_Corruption_Pakistan.pdf">Updated Pre-Analysis Plan (PAP)</a>] [<a href="https://osf.io/tuebs">EGAP Registry</a>]</p>
-
-<p style="font-size: 12pt; width: 100%; text-align: left;">NOTE: Due to COVID-19, we paused data collection for this project in March 2020. We will resume data collection once it is safe to do so. </p>
+<p style="font-size: 12pt; width: 100%; text-align: left;">Principal-agent and collective-action theories anchor the two most common approaches to corruption, but scholars often treat them as competing explanations.\linebreak We integrate principal-agent, collective-action, and functionalist insights by embedding monitoring into a multiple-equilibria collective-action model of citizen behavior. It captures the limits of top-down supervision under systemic corruption, while shifting collective-action accounts from high-level equilibria toward citizen-level beliefs and payoffs. The model does so by disaggregating citizen-level monitoring benefits into collective and private types. Beyond identifying the relevant equilibria, we show how their selection depends on citizens’ beliefs about others’ willingness to act and on the weight they place on those beliefs when choosing whether to resist corruption. Our approach enables collective-action accounts to capture more incremental phenomena and explain heterogeneous corruption outcomes within countries or societies. The distinction between collective and private monitoring benefits also provides a heuristic to guide policy. [<a href="https://mikedenly.com//files/DBPT_PAP_Corruption_Pakistan.pdf">Updated Pre-Analysis Plan (PAP)</a>] [<a href="https://osf.io/tuebs">EGAP Registry</a>]</p>
 
 <p style="font-size: 12pt; width: 100%; text-align: left;"><img src="/images/trace_plots.png" class="thumbnailmc" style="width: 94%;"></p>
