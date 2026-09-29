@@ -1,6 +1,7 @@
 ---
 title: 'Removing Accents in R'
 date: 2021-05-25
+lang: es
 permalink: /posts/2021/05/removing-accents-in-R/
 output: 
   md_document:

@@ -1,6 +1,7 @@
 ---
 permalink: /francais
 title: ""
+lang: fr
 author_profile: true
 ---
 

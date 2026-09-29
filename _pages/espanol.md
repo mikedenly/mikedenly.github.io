@@ -1,6 +1,7 @@
 ---
 permalink: /espanol
 title: ""
+lang: es
 author_profile: true
 ---
 
