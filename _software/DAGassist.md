@@ -1,6 +1,6 @@
 ---
 title: "DAGassist"
-permalink: /software/dagassist
+permalink: /software/DAGassist
 collection: software
 excerpt: "An R package for DAG-informed adjustment, target estimands, and robustness checks."
 ---
@@ -23,8 +23,8 @@ excerpt: "An R package for DAG-informed adjustment, target estimands, and robust
 <div class="software-detail">
   <p><i>Joint work with Graham Goff.</i></p>
 
-  <p>DAGassist is an R package that helps researchers align regression analyses
-  with causal assumptions and target estimands. Given a directed acyclic graph
+  <p>DAGassist is an `R` package that helps researchers align regression analyses
+  with causal assumptions and target estimands. Given a Directed Acyclic Graph
   and a model specification, it classifies variables by their causal roles,
   compares the original specification with DAG-derived adjustment sets, and
   supports target-estimand recovery and reporting of robustness checks.</p>
