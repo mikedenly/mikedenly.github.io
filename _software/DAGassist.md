@@ -20,12 +20,12 @@ excerpt: "An R package for DAG-informed adjustment, target estimands, and robust
 }
 </style>
 
-<div class="software-detail">
-
   <img src="{{ '/images/DAGassist_logo.png' | relative_url }}"
        class="software-logo"
        alt="DAGassist logo">
-       
+
+<div class="software-detail">
+
   <p><i>Joint work with Graham Goff.</i></p>
 
   <p>DAGassist is an `R` package that helps researchers align regression analyses
