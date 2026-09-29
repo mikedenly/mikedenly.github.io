@@ -6,82 +6,69 @@ author_profile: yes
 ---
 
 <style>
-.thumbnail {
-    background-color: black;
-    height: 200px;
-    display: inline-block;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+/* These rules apply only inside this page's research-list wrapper. */
+.research-list h2,
+.research-list .card p {
+  margin: 0.55em;
 }
-</style>
 
-<style>
-.thumbnail1 {
-    background-color: black;
-    height: 228px;
-    display: inline-block;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-</style>
-
-<style>
-.thumbnail2 {
-    background-color: black;
-    height: 254px;
-    display: inline-block;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-</style>
-
-<style>
-.thumbnail3 {
-    background-color: black;
-    height: 180px;
-    display: inline-block;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-</style>
-
-<style>
-    h2, p {
-       margin: 0.55em;
-    }
-</style>
-
-<style>
-.card {
-  margin-bottom: 0.25em;
-  padding: 0.75em;
-}
-</style>
-
-<style>
-.cards {
+.research-list .cards {
   max-width: 100%;
   margin: 0 auto;
   display: grid;
-  grid-gap: 0.25em;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.25em;
+}
+
+.research-list .card {
+  min-width: 0;
+  margin-bottom: 0.25em;
+  padding: 0.75em;
+}
+
+.research-list .card img {
+  display: block;
+  width: 90%;
+  max-width: 100%;
+  height: 200px;
+  margin-top: 0.5em;
+  object-fit: contain;
+  object-position: center;
+  background: transparent;
+}
+
+/* Keep your existing size choices. */
+.research-list .card img.thumbnail1 { height: 228px; }
+.research-list .card img.thumbnail2 { height: 254px; }
+.research-list .card img.thumbnail3 { height: 180px; }
+
+/* Optional: show an image at its natural proportions with no fixed box. */
+.research-list .card img.thumbnail-natural { height: auto; }
+
+@media (min-width: 700px) {
+  .research-list .cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 </style>
 
-<style>
-@media (min-width: 700px) {
-  .cards { grid-template-columns: repeat(2, 1fr); }
-}
-</style>
+<div class="research-list">
 
 <h2>Book</h2>
 
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="https://mikedenly.com/research/external-validity-book">External Validity for Social Inquiry</a>." Under contract with <b><i>Cambridge University Press</i></b> (w/ Mike Findley & Kyosuke Kikuta).<br><a href="https://mikedenly.com/research/external-validity-book"><img src="/images/evbook.png" class="thumbnail" style="width: 90%"></a></p></div>
+  <p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">
+    "<a href="/research/external-validity-book">External Validity for Social Inquiry</a>."
+    Under contract with <b><i>Cambridge University Press</i></b>
+    (w/ Mike Findley &amp; Kyosuke Kikuta).
+  </p>
+  <a href="/research/external-validity-book">
+    <img src="/images/evbook.png"
+         class="thumbnail"
+         width="2103" height="1180"
+         alt="External Validity for Social Inquiry: dimensions and evaluative criteria">
+  </a>
 </div>
 
 <h2>Published Academic Articles</h2>
@@ -129,3 +116,5 @@ author_profile: yes
 
 <p style="float: left; font-size: 11.5pt; text-align: left; width: 100%; margin-right: 0%; margin-bottom: 0.5em;">"<a href="https://politicalviolenceataglance.org/2016/05/09/spoiler-alert-combatant-fragmentation-and-the-colombian-peace-process/">Combatant Fragmentation and the Colombian Peace Process</a>."<i> Political Violence at a Glance</i>, 2016 (w/ Mike Findley & Alejandro Ponce de León).</p>
 <div style="clear:both"></div>
+
+</div>

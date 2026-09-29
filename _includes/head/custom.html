@@ -76,4 +76,16 @@
 }
 </style> 
 
+{% if page.collection == "research" %}
+<style>
+  .page__content img[class*="thumbnail"],
+  .page__content img.research-figure {
+    display: block;
+    max-width: 100%;
+    height: auto !important;
+    background: transparent;
+  }
+</style>
+{% endif %}
+
 <!-- end custom head snippets -->
