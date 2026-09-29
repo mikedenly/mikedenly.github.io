@@ -40,6 +40,16 @@
        {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
+      {% if author.bluesky and author.bluesky != "" %}
+  <li>
+    <a href="https://bsky.app/profile/{{ author.bluesky | escape }}">
+      <img src="{{ '/images/bluesky.svg' | relative_url }}"
+           alt="" aria-hidden="true"
+           style="display: inline-block; width: 1em; height: 1em; vertical-align: -0.12em; margin-right: 0.2em;">
+      Bluesky
+    </a>
+  </li>
+{% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}

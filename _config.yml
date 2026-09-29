@@ -103,12 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mikedenly"
-  orcid            : #"https://orcid.org/0000-0002-7074-5011"
+  orcid            : "https://orcid.org/0000-0002-7074-5011"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  bluesky          : "mikedenly.com"
   twitter          : "mikedenly"
   vine             :
   weibo            :
