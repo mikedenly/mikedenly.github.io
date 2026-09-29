@@ -24,9 +24,9 @@ excerpt: "R software for causal inference, including DAGassist."
 
 <div class="software-index">
   <p class="software-title">
-    <a href="{{ '/software/dagassist' | relative_url }}"><strong>DAGassist</strong></a>
+    <a href="{{ '/software/DAGassist' | relative_url }}"><strong>DAGassist</strong></a>
   </p>
-  <a href="{{ '/software/dagassist' | relative_url }}">
+  <a href="{{ '/software/DAGassist' | relative_url }}">
     <img src="{{ '/images/DAGassist_logo.png' | relative_url }}"
          class="software-logo"
          alt="DAGassist package page">
