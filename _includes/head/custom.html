@@ -43,4 +43,37 @@
   }
 </style>
 
+<style>
+/* Consistent spacing for sidebar profile links */
+.sidebar .author__urls > li {
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar .author__urls > li > a {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  margin: 0;
+  padding: 0.3em 0;
+  line-height: 1.5;
+}
+
+/* Give every icon the same column width */
+.sidebar .author__urls > li > a > i,
+.sidebar .author__urls > li > a > img {
+  flex: 0 0 1.25em;
+  width: 1.25em !important;
+  margin: 0 !important;
+  padding: 0;
+  text-align: center;
+}
+
+/* Keep the Bluesky butterfly proportional */
+.sidebar .author__urls > li > a > img {
+  height: 1em !important;
+  object-fit: contain;
+}
+</style> 
+
 <!-- end custom head snippets -->
