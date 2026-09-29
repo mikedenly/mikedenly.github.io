@@ -110,7 +110,7 @@ author:
   steam            :
   tumblr           :
   bluesky          : "mikedenly.com"
-  twitter          : "mikedenly"
+  twitter          : #"mikedenly"
   vine             :
   weibo            :
   xing             :
@@ -226,6 +226,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _software
+  - scope:
+      path: ""
+      type: software
     values:
       layout: single
       author_profile: true
