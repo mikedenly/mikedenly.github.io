@@ -54,21 +54,3 @@ For the package citation, run:
 ```r
 citation("DAGassist")
 ```
-
-```
-To cite package ‘DAGassist’ in publications use:
-
-  Goff G, Denly M (2026). _DAGassist: Test Robustness with Directed Acyclic Graphs_. R
-  package version 0.3.0, <https://CRAN.R-project.org/package=DAGassist>.
-
-A BibTeX entry for LaTeX users is
-
-  @Manual{,
-    title = {DAGassist: Test Robustness with Directed Acyclic Graphs},
-    author = {Graham Goff and Michael Denly},
-    year = {2026},
-    note = {R package version 0.3.0},
-    url = {https://CRAN.R-project.org/package=DAGassist},
-  }
-```
-

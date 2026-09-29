@@ -182,6 +182,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  software:
+    output: true
+    permalink: /:collection/:path/
   datasets:
     output: true
     permalink: /:collection/:path/

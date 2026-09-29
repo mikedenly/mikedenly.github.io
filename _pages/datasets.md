@@ -39,9 +39,10 @@ author_profile: yes
 </style>
 
 <style>
-    h2, p {
-       margin: 1em;
-    }
+.archive h2,
+.archive p {
+  margin: 1em;
+}
 </style>
 
 <style>
@@ -69,7 +70,9 @@ author_profile: yes
 
 <p style="font-size: 14.5pt; text-align: left; margin-bottom: 0.0em;"><a href="https://mikedenly.com/datasets/global-resources-dataset"><b>The Global Resources Dataset</b></a></p>
 
-<p style="font-size: 14.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://mikedenly.com/datasets/global-resources-dataset"><img src="/images/world_nr.png" class="thumbnail2" style="width: 70%;"></a></p>
+<p style="font-size: 14.5pt; text-align: left; margin-bottom: 0.5em;"><a href="https://mikedenly.com/datasets/global-resources-dataset"><img src="/images/world_nr.png"
+     alt="Map of natural-resource locations in the Global Resources Dataset"
+     style="display: block; width: 70%; max-width: 100%; height: auto;"></a></p>
 
 
 
