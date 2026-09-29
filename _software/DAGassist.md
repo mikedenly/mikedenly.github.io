@@ -39,6 +39,7 @@ excerpt: "An R package for DAG-informed adjustment, target estimands, and robust
     [<a href="https://grahamgoff.com/DAGassist/">Documentation</a>]
     [<a href="https://github.com/grahamgoff/DAGassist">Source code</a>]
     [<a href="{{ '/research/dags' | relative_url }}">Related paper</a>]
+    [<a href="https://cranlogs.r-pkg.org/badges/grand-total/DAGassist">Downloads</a>]
   </p>
 
 </div>
